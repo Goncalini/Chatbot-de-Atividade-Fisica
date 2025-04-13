@@ -1,0 +1,2027 @@
+[
+    {
+        "chunk_id": "Paper1Chunk0",
+        "chunk_text": "Regular physical activity has been consistently associated with a reduction in the risk of cardiovascular diseases (CVDs). Numerous studies have demonstrated that moderate and vigorous exercise can improve cardiovascular health by reducing risk factors such as hypertension, cholesterol levels, and body weight. This narrative review will explore the epidemiological evidence on the effects of physical activity on various cardiovascular conditions, including ischaemic heart disease, stroke, hypertension, and heart failure. The review will also address potential challenges, such as variations in exercise intensity, frequency, and measurement methods.",
+        "title": "Physical Activity and Its Impact on Cardiovascular Health.",
+        "link": "",
+        "year": "2020",
+        "topic": "exercise_health",
+        "hierarchical_level": 2
+    },
+    {
+        "chunk_id": "Paper1Chunk1",
+        "chunk_text": "Exercise interventions have been shown to improve cardiovascular fitness, lower blood pressure, and enhance endothelial function. Cardiovascular improvements are particularly evident in individuals with pre-existing conditions like hypertension, diabetes, or obesity. Aerobic exercises such as walking, running, and cycling are particularly effective in enhancing cardiovascular health by improving heart rate variability and arterial stiffness.",
+        "title": "Exercise Interventions for Cardiovascular Fitness.",
+        "link": "",
+        "year": "2021",
+        "topic": "exercise_health",
+        "hierarchical_level": 1
+    },
+    {
+        "chunk_id": "Paper1Chunk2",
+        "chunk_text": "High-intensity interval training (HIIT) has emerged as an effective alternative to traditional aerobic exercise for improving cardiovascular outcomes. Studies suggest that HIIT may provide similar or even superior benefits in terms of cardiovascular health, especially for those with limited time or who have difficulty engaging in prolonged exercise sessions. HIIT enhances cardiovascular endurance, reduces fat mass, and improves heart function.",
+        "title": "High-Intensity Interval Training and Cardiovascular Health.",
+        "link": "",
+        "year": "2019",
+        "topic": "exercise_health",
+        "hierarchical_level": 1
+    },
+    {
+        "chunk_id": "Paper1Chunk3",
+        "chunk_text": "Strength training, traditionally thought of as primarily beneficial for building muscle, also offers significant cardiovascular benefits. Recent research has shown that resistance training can improve cardiovascular health by lowering blood pressure, enhancing insulin sensitivity, and improving lipid profiles. Incorporating strength training into a balanced exercise routine is recommended for comprehensive cardiovascular health.",
+        "title": "Strength Training and Cardiovascular Benefits.",
+        "link": "",
+        "year": "2020",
+        "topic": "exercise_health",
+        "hierarchical_level": 1
+    },
+    {
+        "chunk_id": "Paper1Chunk4",
+        "chunk_text": "Even low-intensity physical activities, such as walking and gardening, can have a positive impact on cardiovascular health. Studies suggest that sedentary individuals who engage in even modest amounts of physical activity have a significantly reduced risk of heart disease and stroke. Walking, for instance, has been found to improve heart function, reduce inflammation, and improve circulation.",
+        "title": "Low-Intensity Physical Activity and Cardiovascular Health.",
+        "link": "",
+        "year": "2020",
+        "topic": "exercise_health",
+        "hierarchical_level": 1
+    },
+    {
+        "chunk_id": "Paper1Chunk5",
+        "chunk_text": "Long-term physical activity has been associated with a lower incidence of coronary heart disease (CHD) and a reduction in cardiovascular mortality. Regular exercise leads to the development of healthier arteries, a reduction in the plaque buildup in the blood vessels, and a lower risk of myocardial infarction. Engaging in consistent physical activity from a young age is particularly effective in preventing heart disease later in life.",
+        "title": "Long-Term Physical Activity and Cardiovascular Disease Prevention.",
+        "link": "",
+        "year": "2021",
+        "topic": "exercise_health",
+        "hierarchical_level": 1
+    },
+    {
+        "chunk_id": "Paper1Chunk6",
+        "chunk_text": "In addition to the direct benefits on cardiovascular health, regular physical activity has been shown to improve mental health, which can indirectly benefit heart health. Exercise has been linked to reduced levels of stress, anxiety, and depression, which are known risk factors for heart disease. Mind-body activities like yoga and tai chi are particularly beneficial in managing stress and improving heart rate variability.",
+        "title": "Mental Health and Its Impact on Cardiovascular Health Through Exercise.",
+        "link": "",
+        "year": "2021",
+        "topic": "exercise_health",
+        "hierarchical_level": 1
+    },
+    {
+        "chunk_id": "Paper1Chunk1",
+        "chunk_text": "Exercise interventions have been shown to improve cardiovascular fitness, lower blood pressure, and enhance endothelial function. Cardiovascular improvements are particularly evident in individuals with pre-existing conditions like hypertension, diabetes, or obesity. Aerobic exercises such as walking, running, and cycling are particularly effective in enhancing cardiovascular health by improving heart rate variability and arterial stiffness.",
+        "title": "Exercise Interventions for Cardiovascular Fitness.",
+        "link": "",
+        "year": "2021",
+        "topic": "exercise_health",
+        "hierarchical_level": 1
+    },
+    {
+        "chunk_id": "Paper1Chunk2",
+        "chunk_text": "High-intensity interval training (HIIT) has emerged as an effective alternative to traditional aerobic exercise for improving cardiovascular outcomes. Studies suggest that HIIT may provide similar or even superior benefits in terms of cardiovascular health, especially for those with limited time or who have difficulty engaging in prolonged exercise sessions. HIIT enhances cardiovascular endurance, reduces fat mass, and improves heart function.",
+        "title": "High-Intensity Interval Training and Cardiovascular Health.",
+        "link": "",
+        "year": "2019",
+        "topic": "exercise_health",
+        "hierarchical_level": 1
+    },
+    {
+        "chunk_id": "Paper1Chunk3",
+        "chunk_text": "Strength training, traditionally thought of as primarily beneficial for building muscle, also offers significant cardiovascular benefits. Recent research has shown that resistance training can improve cardiovascular health by lowering blood pressure, enhancing insulin sensitivity, and improving lipid profiles. Incorporating strength training into a balanced exercise routine is recommended for comprehensive cardiovascular health.",
+        "title": "Strength Training and Cardiovascular Benefits.",
+        "link": "",
+        "year": "2020",
+        "topic": "exercise_health",
+        "hierarchical_level": 1
+    },
+    {
+        "chunk_id": "Paper1Chunk4",
+        "chunk_text": "Even low-intensity physical activities, such as walking and gardening, can have a positive impact on cardiovascular health. Studies suggest that sedentary individuals who engage in even modest amounts of physical activity have a significantly reduced risk of heart disease and stroke. Walking, for instance, has been found to improve heart function, reduce inflammation, and improve circulation.",
+        "title": "Low-Intensity Physical Activity and Cardiovascular Health.",
+        "link": "",
+        "year": "2020",
+        "topic": "exercise_health",
+        "hierarchical_level": 1
+    },
+    {
+        "chunk_id": "Paper1Chunk5",
+        "chunk_text": "Long-term physical activity has been associated with a lower incidence of coronary heart disease (CHD) and a reduction in cardiovascular mortality. Regular exercise leads to the development of healthier arteries, a reduction in the plaque buildup in the blood vessels, and a lower risk of myocardial infarction. Engaging in consistent physical activity from a young age is particularly effective in preventing heart disease later in life.",
+        "title": "Long-Term Physical Activity and Cardiovascular Disease Prevention.",
+        "link": "",
+        "year": "2021",
+        "topic": "exercise_health",
+        "hierarchical_level": 1
+    },
+    {
+        "chunk_id": "Paper1Chunk6",
+        "chunk_text": "In addition to the direct benefits on cardiovascular health, regular physical activity has been shown to improve mental health, which can indirectly benefit heart health. Exercise has been linked to reduced levels of stress, anxiety, and depression, which are known risk factors for heart disease. Mind-body activities like yoga and tai chi are particularly beneficial in managing stress and improving heart rate variability.",
+        "title": "Mental Health and Its Impact on Cardiovascular Health Through Exercise.",
+        "link": "",
+        "year": "2021",
+        "topic": "exercise_health",
+        "hierarchical_level": 1
+    }, {
+        "chunk_id": "Paper1Chunk1",
+        "chunk_text": "Exercise interventions have been shown to improve cardiovascular fitness, lower blood pressure, and enhance endothelial function. Cardiovascular improvements are particularly evident in individuals with pre-existing conditions like hypertension, diabetes, or obesity. Aerobic exercises such as walking, running, and cycling are particularly effective in enhancing cardiovascular health by improving heart rate variability and arterial stiffness.",
+        "title": "Exercise Interventions for Cardiovascular Fitness.",
+        "link": "",
+        "year": "2021",
+        "topic": "exercise_health",
+        "hierarchical_level": 1
+    },
+    {
+        "chunk_id": "Paper1Chunk2",
+        "chunk_text": "High-intensity interval training (HIIT) has emerged as an effective alternative to traditional aerobic exercise for improving cardiovascular outcomes. Studies suggest that HIIT may provide similar or even superior benefits in terms of cardiovascular health, especially for those with limited time or who have difficulty engaging in prolonged exercise sessions. HIIT enhances cardiovascular endurance, reduces fat mass, and improves heart function.",
+        "title": "High-Intensity Interval Training and Cardiovascular Health.",
+        "link": "",
+        "year": "2019",
+        "topic": "exercise_health",
+        "hierarchical_level": 1
+    },
+    {
+        "chunk_id": "Paper1Chunk3",
+        "chunk_text": "Strength training, traditionally thought of as primarily beneficial for building muscle, also offers significant cardiovascular benefits. Recent research has shown that resistance training can improve cardiovascular health by lowering blood pressure, enhancing insulin sensitivity, and improving lipid profiles. Incorporating strength training into a balanced exercise routine is recommended for comprehensive cardiovascular health.",
+        "title": "Strength Training and Cardiovascular Benefits.",
+        "link": "",
+        "year": "2020",
+        "topic": "exercise_health",
+        "hierarchical_level": 1
+    },
+    {
+        "chunk_id": "Paper1Chunk4",
+        "chunk_text": "Even low-intensity physical activities, such as walking and gardening, can have a positive impact on cardiovascular health. Studies suggest that sedentary individuals who engage in even modest amounts of physical activity have a significantly reduced risk of heart disease and stroke. Walking, for instance, has been found to improve heart function, reduce inflammation, and improve circulation.",
+        "title": "Low-Intensity Physical Activity and Cardiovascular Health.",
+        "link": "",
+        "year": "2020",
+        "topic": "exercise_health",
+        "hierarchical_level": 1
+    },
+    {
+        "chunk_id": "Paper1Chunk5",
+        "chunk_text": "Long-term physical activity has been associated with a lower incidence of coronary heart disease (CHD) and a reduction in cardiovascular mortality. Regular exercise leads to the development of healthier arteries, a reduction in the plaque buildup in the blood vessels, and a lower risk of myocardial infarction. Engaging in consistent physical activity from a young age is particularly effective in preventing heart disease later in life.",
+        "title": "Long-Term Physical Activity and Cardiovascular Disease Prevention.",
+        "link": "",
+        "year": "2021",
+        "topic": "exercise_health",
+        "hierarchical_level": 1
+    },
+    {
+        "chunk_id": "Paper1Chunk6",
+        "chunk_text": "In addition to the direct benefits on cardiovascular health, regular physical activity has been shown to improve mental health, which can indirectly benefit heart health. Exercise has been linked to reduced levels of stress, anxiety, and depression, which are known risk factors for heart disease. Mind-body activities like yoga and tai chi are particularly beneficial in managing stress and improving heart rate variability.",
+        "title": "Mental Health and Its Impact on Cardiovascular Health Through Exercise.",
+        "link": "",
+        "year": "2021",
+        "topic": "exercise_health",
+        "hierarchical_level": 1
+    }, {
+        "chunk_id": "Paper1Chunk1",
+        "chunk_text": "Exercise interventions have been shown to improve cardiovascular fitness, lower blood pressure, and enhance endothelial function. Cardiovascular improvements are particularly evident in individuals with pre-existing conditions like hypertension, diabetes, or obesity. Aerobic exercises such as walking, running, and cycling are particularly effective in enhancing cardiovascular health by improving heart rate variability and arterial stiffness.",
+        "title": "Exercise Interventions for Cardiovascular Fitness.",
+        "link": "",
+        "year": "2021",
+        "topic": "exercise_health",
+        "hierarchical_level": 1
+    },
+    {
+        "chunk_id": "Paper1Chunk2",
+        "chunk_text": "High-intensity interval training (HIIT) has emerged as an effective alternative to traditional aerobic exercise for improving cardiovascular outcomes. Studies suggest that HIIT may provide similar or even superior benefits in terms of cardiovascular health, especially for those with limited time or who have difficulty engaging in prolonged exercise sessions. HIIT enhances cardiovascular endurance, reduces fat mass, and improves heart function.",
+        "title": "High-Intensity Interval Training and Cardiovascular Health.",
+        "link": "",
+        "year": "2019",
+        "topic": "exercise_health",
+        "hierarchical_level": 1
+    },
+    {
+        "chunk_id": "Paper1Chunk3",
+        "chunk_text": "Strength training, traditionally thought of as primarily beneficial for building muscle, also offers significant cardiovascular benefits. Recent research has shown that resistance training can improve cardiovascular health by lowering blood pressure, enhancing insulin sensitivity, and improving lipid profiles. Incorporating strength training into a balanced exercise routine is recommended for comprehensive cardiovascular health.",
+        "title": "Strength Training and Cardiovascular Benefits.",
+        "link": "",
+        "year": "2020",
+        "topic": "exercise_health",
+        "hierarchical_level": 1
+    },
+    {
+        "chunk_id": "Paper1Chunk4",
+        "chunk_text": "Even low-intensity physical activities, such as walking and gardening, can have a positive impact on cardiovascular health. Studies suggest that sedentary individuals who engage in even modest amounts of physical activity have a significantly reduced risk of heart disease and stroke. Walking, for instance, has been found to improve heart function, reduce inflammation, and improve circulation.",
+        "title": "Low-Intensity Physical Activity and Cardiovascular Health.",
+        "link": "",
+        "year": "2020",
+        "topic": "exercise_health",
+        "hierarchical_level": 1
+    },
+    {
+        "chunk_id": "Paper1Chunk5",
+        "chunk_text": "Long-term physical activity has been associated with a lower incidence of coronary heart disease (CHD) and a reduction in cardiovascular mortality. Regular exercise leads to the development of healthier arteries, a reduction in the plaque buildup in the blood vessels, and a lower risk of myocardial infarction. Engaging in consistent physical activity from a young age is particularly effective in preventing heart disease later in life.",
+        "title": "Long-Term Physical Activity and Cardiovascular Disease Prevention.",
+        "link": "",
+        "year": "2021",
+        "topic": "exercise_health",
+        "hierarchical_level": 1
+    },
+    {
+        "chunk_id": "Paper1Chunk6",
+        "chunk_text": "In addition to the direct benefits on cardiovascular health, regular physical activity has been shown to improve mental health, which can indirectly benefit heart health. Exercise has been linked to reduced levels of stress, anxiety, and depression, which are known risk factors for heart disease. Mind-body activities like yoga and tai chi are particularly beneficial in managing stress and improving heart rate variability.",
+        "title": "Mental Health and Its Impact on Cardiovascular Health Through Exercise.",
+        "link": "",
+        "year": "2021",
+        "topic": "exercise_health",
+        "hierarchical_level": 1
+    }, {
+        "chunk_id": "Paper1Chunk1",
+        "chunk_text": "Exercise interventions have been shown to improve cardiovascular fitness, lower blood pressure, and enhance endothelial function. Cardiovascular improvements are particularly evident in individuals with pre-existing conditions like hypertension, diabetes, or obesity. Aerobic exercises such as walking, running, and cycling are particularly effective in enhancing cardiovascular health by improving heart rate variability and arterial stiffness.",
+        "title": "Exercise Interventions for Cardiovascular Fitness.",
+        "link": "",
+        "year": "2021",
+        "topic": "exercise_health",
+        "hierarchical_level": 1
+    },
+    {
+        "chunk_id": "Paper1Chunk2",
+        "chunk_text": "High-intensity interval training (HIIT) has emerged as an effective alternative to traditional aerobic exercise for improving cardiovascular outcomes. Studies suggest that HIIT may provide similar or even superior benefits in terms of cardiovascular health, especially for those with limited time or who have difficulty engaging in prolonged exercise sessions. HIIT enhances cardiovascular endurance, reduces fat mass, and improves heart function.",
+        "title": "High-Intensity Interval Training and Cardiovascular Health.",
+        "link": "",
+        "year": "2019",
+        "topic": "exercise_health",
+        "hierarchical_level": 1
+    },
+    {
+        "chunk_id": "Paper1Chunk3",
+        "chunk_text": "Strength training, traditionally thought of as primarily beneficial for building muscle, also offers significant cardiovascular benefits. Recent research has shown that resistance training can improve cardiovascular health by lowering blood pressure, enhancing insulin sensitivity, and improving lipid profiles. Incorporating strength training into a balanced exercise routine is recommended for comprehensive cardiovascular health.",
+        "title": "Strength Training and Cardiovascular Benefits.",
+        "link": "",
+        "year": "2020",
+        "topic": "exercise_health",
+        "hierarchical_level": 1
+    },
+    {
+        "chunk_id": "Paper1Chunk4",
+        "chunk_text": "Even low-intensity physical activities, such as walking and gardening, can have a positive impact on cardiovascular health. Studies suggest that sedentary individuals who engage in even modest amounts of physical activity have a significantly reduced risk of heart disease and stroke. Walking, for instance, has been found to improve heart function, reduce inflammation, and improve circulation.",
+        "title": "Low-Intensity Physical Activity and Cardiovascular Health.",
+        "link": "",
+        "year": "2020",
+        "topic": "exercise_health",
+        "hierarchical_level": 1
+    },
+    {
+        "chunk_id": "Paper1Chunk5",
+        "chunk_text": "Long-term physical activity has been associated with a lower incidence of coronary heart disease (CHD) and a reduction in cardiovascular mortality. Regular exercise leads to the development of healthier arteries, a reduction in the plaque buildup in the blood vessels, and a lower risk of myocardial infarction. Engaging in consistent physical activity from a young age is particularly effective in preventing heart disease later in life.",
+        "title": "Long-Term Physical Activity and Cardiovascular Disease Prevention.",
+        "link": "",
+        "year": "2021",
+        "topic": "exercise_health",
+        "hierarchical_level": 1
+    },
+    {
+        "chunk_id": "Paper1Chunk6",
+        "chunk_text": "In addition to the direct benefits on cardiovascular health, regular physical activity has been shown to improve mental health, which can indirectly benefit heart health. Exercise has been linked to reduced levels of stress, anxiety, and depression, which are known risk factors for heart disease. Mind-body activities like yoga and tai chi are particularly beneficial in managing stress and improving heart rate variability.",
+        "title": "Mental Health and Its Impact on Cardiovascular Health Through Exercise.",
+        "link": "",
+        "year": "2021",
+        "topic": "exercise_health",
+        "hierarchical_level": 1
+    }, {
+        "chunk_id": "Paper1Chunk1",
+        "chunk_text": "Exercise interventions have been shown to improve cardiovascular fitness, lower blood pressure, and enhance endothelial function. Cardiovascular improvements are particularly evident in individuals with pre-existing conditions like hypertension, diabetes, or obesity. Aerobic exercises such as walking, running, and cycling are particularly effective in enhancing cardiovascular health by improving heart rate variability and arterial stiffness.",
+        "title": "Exercise Interventions for Cardiovascular Fitness.",
+        "link": "",
+        "year": "2021",
+        "topic": "exercise_health",
+        "hierarchical_level": 1
+    },
+    {
+        "chunk_id": "Paper1Chunk2",
+        "chunk_text": "High-intensity interval training (HIIT) has emerged as an effective alternative to traditional aerobic exercise for improving cardiovascular outcomes. Studies suggest that HIIT may provide similar or even superior benefits in terms of cardiovascular health, especially for those with limited time or who have difficulty engaging in prolonged exercise sessions. HIIT enhances cardiovascular endurance, reduces fat mass, and improves heart function.",
+        "title": "High-Intensity Interval Training and Cardiovascular Health.",
+        "link": "",
+        "year": "2019",
+        "topic": "exercise_health",
+        "hierarchical_level": 1
+    },
+    {
+        "chunk_id": "Paper1Chunk3",
+        "chunk_text": "Strength training, traditionally thought of as primarily beneficial for building muscle, also offers significant cardiovascular benefits. Recent research has shown that resistance training can improve cardiovascular health by lowering blood pressure, enhancing insulin sensitivity, and improving lipid profiles. Incorporating strength training into a balanced exercise routine is recommended for comprehensive cardiovascular health.",
+        "title": "Strength Training and Cardiovascular Benefits.",
+        "link": "",
+        "year": "2020",
+        "topic": "exercise_health",
+        "hierarchical_level": 1
+    },
+    {
+        "chunk_id": "Paper1Chunk4",
+        "chunk_text": "Even low-intensity physical activities, such as walking and gardening, can have a positive impact on cardiovascular health. Studies suggest that sedentary individuals who engage in even modest amounts of physical activity have a significantly reduced risk of heart disease and stroke. Walking, for instance, has been found to improve heart function, reduce inflammation, and improve circulation.",
+        "title": "Low-Intensity Physical Activity and Cardiovascular Health.",
+        "link": "",
+        "year": "2020",
+        "topic": "exercise_health",
+        "hierarchical_level": 1
+    },
+    {
+        "chunk_id": "Paper1Chunk5",
+        "chunk_text": "Long-term physical activity has been associated with a lower incidence of coronary heart disease (CHD) and a reduction in cardiovascular mortality. Regular exercise leads to the development of healthier arteries, a reduction in the plaque buildup in the blood vessels, and a lower risk of myocardial infarction. Engaging in consistent physical activity from a young age is particularly effective in preventing heart disease later in life.",
+        "title": "Long-Term Physical Activity and Cardiovascular Disease Prevention.",
+        "link": "",
+        "year": "2021",
+        "topic": "exercise_health",
+        "hierarchical_level": 1
+    },
+    {
+        "chunk_id": "Paper1Chunk6",
+        "chunk_text": "In addition to the direct benefits on cardiovascular health, regular physical activity has been shown to improve mental health, which can indirectly benefit heart health. Exercise has been linked to reduced levels of stress, anxiety, and depression, which are known risk factors for heart disease. Mind-body activities like yoga and tai chi are particularly beneficial in managing stress and improving heart rate variability.",
+        "title": "Mental Health and Its Impact on Cardiovascular Health Through Exercise.",
+        "link": "",
+        "year": "2021",
+        "topic": "exercise_health",
+        "hierarchical_level": 1
+    }, {
+        "chunk_id": "Paper1Chunk1",
+        "chunk_text": "Exercise interventions have been shown to improve cardiovascular fitness, lower blood pressure, and enhance endothelial function. Cardiovascular improvements are particularly evident in individuals with pre-existing conditions like hypertension, diabetes, or obesity. Aerobic exercises such as walking, running, and cycling are particularly effective in enhancing cardiovascular health by improving heart rate variability and arterial stiffness.",
+        "title": "Exercise Interventions for Cardiovascular Fitness.",
+        "link": "",
+        "year": "2021",
+        "topic": "exercise_health",
+        "hierarchical_level": 1
+    },
+    {
+        "chunk_id": "Paper1Chunk2",
+        "chunk_text": "High-intensity interval training (HIIT) has emerged as an effective alternative to traditional aerobic exercise for improving cardiovascular outcomes. Studies suggest that HIIT may provide similar or even superior benefits in terms of cardiovascular health, especially for those with limited time or who have difficulty engaging in prolonged exercise sessions. HIIT enhances cardiovascular endurance, reduces fat mass, and improves heart function.",
+        "title": "High-Intensity Interval Training and Cardiovascular Health.",
+        "link": "",
+        "year": "2019",
+        "topic": "exercise_health",
+        "hierarchical_level": 1
+    },
+    {
+        "chunk_id": "Paper1Chunk3",
+        "chunk_text": "Strength training, traditionally thought of as primarily beneficial for building muscle, also offers significant cardiovascular benefits. Recent research has shown that resistance training can improve cardiovascular health by lowering blood pressure, enhancing insulin sensitivity, and improving lipid profiles. Incorporating strength training into a balanced exercise routine is recommended for comprehensive cardiovascular health.",
+        "title": "Strength Training and Cardiovascular Benefits.",
+        "link": "",
+        "year": "2020",
+        "topic": "exercise_health",
+        "hierarchical_level": 1
+    },
+    {
+        "chunk_id": "Paper1Chunk4",
+        "chunk_text": "Even low-intensity physical activities, such as walking and gardening, can have a positive impact on cardiovascular health. Studies suggest that sedentary individuals who engage in even modest amounts of physical activity have a significantly reduced risk of heart disease and stroke. Walking, for instance, has been found to improve heart function, reduce inflammation, and improve circulation.",
+        "title": "Low-Intensity Physical Activity and Cardiovascular Health.",
+        "link": "",
+        "year": "2020",
+        "topic": "exercise_health",
+        "hierarchical_level": 1
+    },
+    {
+        "chunk_id": "Paper1Chunk5",
+        "chunk_text": "Long-term physical activity has been associated with a lower incidence of coronary heart disease (CHD) and a reduction in cardiovascular mortality. Regular exercise leads to the development of healthier arteries, a reduction in the plaque buildup in the blood vessels, and a lower risk of myocardial infarction. Engaging in consistent physical activity from a young age is particularly effective in preventing heart disease later in life.",
+        "title": "Long-Term Physical Activity and Cardiovascular Disease Prevention.",
+        "link": "",
+        "year": "2021",
+        "topic": "exercise_health",
+        "hierarchical_level": 1
+    },
+    {
+        "chunk_id": "Paper1Chunk6",
+        "chunk_text": "In addition to the direct benefits on cardiovascular health, regular physical activity has been shown to improve mental health, which can indirectly benefit heart health. Exercise has been linked to reduced levels of stress, anxiety, and depression, which are known risk factors for heart disease. Mind-body activities like yoga and tai chi are particularly beneficial in managing stress and improving heart rate variability.",
+        "title": "Mental Health and Its Impact on Cardiovascular Health Through Exercise.",
+        "link": "",
+        "year": "2021",
+        "topic": "exercise_health",
+        "hierarchical_level": 1
+    }, {
+        "chunk_id": "Paper1Chunk1",
+        "chunk_text": "Exercise interventions have been shown to improve cardiovascular fitness, lower blood pressure, and enhance endothelial function. Cardiovascular improvements are particularly evident in individuals with pre-existing conditions like hypertension, diabetes, or obesity. Aerobic exercises such as walking, running, and cycling are particularly effective in enhancing cardiovascular health by improving heart rate variability and arterial stiffness.",
+        "title": "Exercise Interventions for Cardiovascular Fitness.",
+        "link": "",
+        "year": "2021",
+        "topic": "exercise_health",
+        "hierarchical_level": 1
+    },
+    {
+        "chunk_id": "Paper1Chunk2",
+        "chunk_text": "High-intensity interval training (HIIT) has emerged as an effective alternative to traditional aerobic exercise for improving cardiovascular outcomes. Studies suggest that HIIT may provide similar or even superior benefits in terms of cardiovascular health, especially for those with limited time or who have difficulty engaging in prolonged exercise sessions. HIIT enhances cardiovascular endurance, reduces fat mass, and improves heart function.",
+        "title": "High-Intensity Interval Training and Cardiovascular Health.",
+        "link": "",
+        "year": "2019",
+        "topic": "exercise_health",
+        "hierarchical_level": 1
+    },
+    {
+        "chunk_id": "Paper1Chunk3",
+        "chunk_text": "Strength training, traditionally thought of as primarily beneficial for building muscle, also offers significant cardiovascular benefits. Recent research has shown that resistance training can improve cardiovascular health by lowering blood pressure, enhancing insulin sensitivity, and improving lipid profiles. Incorporating strength training into a balanced exercise routine is recommended for comprehensive cardiovascular health.",
+        "title": "Strength Training and Cardiovascular Benefits.",
+        "link": "",
+        "year": "2020",
+        "topic": "exercise_health",
+        "hierarchical_level": 1
+    },
+    {
+        "chunk_id": "Paper1Chunk4",
+        "chunk_text": "Even low-intensity physical activities, such as walking and gardening, can have a positive impact on cardiovascular health. Studies suggest that sedentary individuals who engage in even modest amounts of physical activity have a significantly reduced risk of heart disease and stroke. Walking, for instance, has been found to improve heart function, reduce inflammation, and improve circulation.",
+        "title": "Low-Intensity Physical Activity and Cardiovascular Health.",
+        "link": "",
+        "year": "2020",
+        "topic": "exercise_health",
+        "hierarchical_level": 1
+    },
+    {
+        "chunk_id": "Paper1Chunk5",
+        "chunk_text": "Long-term physical activity has been associated with a lower incidence of coronary heart disease (CHD) and a reduction in cardiovascular mortality. Regular exercise leads to the development of healthier arteries, a reduction in the plaque buildup in the blood vessels, and a lower risk of myocardial infarction. Engaging in consistent physical activity from a young age is particularly effective in preventing heart disease later in life.",
+        "title": "Long-Term Physical Activity and Cardiovascular Disease Prevention.",
+        "link": "",
+        "year": "2021",
+        "topic": "exercise_health",
+        "hierarchical_level": 1
+    },
+    {
+        "chunk_id": "Paper1Chunk6",
+        "chunk_text": "In addition to the direct benefits on cardiovascular health, regular physical activity has been shown to improve mental health, which can indirectly benefit heart health. Exercise has been linked to reduced levels of stress, anxiety, and depression, which are known risk factors for heart disease. Mind-body activities like yoga and tai chi are particularly beneficial in managing stress and improving heart rate variability.",
+        "title": "Mental Health and Its Impact on Cardiovascular Health Through Exercise.",
+        "link": "",
+        "year": "2021",
+        "topic": "exercise_health",
+        "hierarchical_level": 1
+    }, {
+        "chunk_id": "Paper1Chunk1",
+        "chunk_text": "Exercise interventions have been shown to improve cardiovascular fitness, lower blood pressure, and enhance endothelial function. Cardiovascular improvements are particularly evident in individuals with pre-existing conditions like hypertension, diabetes, or obesity. Aerobic exercises such as walking, running, and cycling are particularly effective in enhancing cardiovascular health by improving heart rate variability and arterial stiffness.",
+        "title": "Exercise Interventions for Cardiovascular Fitness.",
+        "link": "",
+        "year": "2021",
+        "topic": "exercise_health",
+        "hierarchical_level": 1
+    },
+    {
+        "chunk_id": "Paper1Chunk2",
+        "chunk_text": "High-intensity interval training (HIIT) has emerged as an effective alternative to traditional aerobic exercise for improving cardiovascular outcomes. Studies suggest that HIIT may provide similar or even superior benefits in terms of cardiovascular health, especially for those with limited time or who have difficulty engaging in prolonged exercise sessions. HIIT enhances cardiovascular endurance, reduces fat mass, and improves heart function.",
+        "title": "High-Intensity Interval Training and Cardiovascular Health.",
+        "link": "",
+        "year": "2019",
+        "topic": "exercise_health",
+        "hierarchical_level": 1
+    },
+    {
+        "chunk_id": "Paper1Chunk3",
+        "chunk_text": "Strength training, traditionally thought of as primarily beneficial for building muscle, also offers significant cardiovascular benefits. Recent research has shown that resistance training can improve cardiovascular health by lowering blood pressure, enhancing insulin sensitivity, and improving lipid profiles. Incorporating strength training into a balanced exercise routine is recommended for comprehensive cardiovascular health.",
+        "title": "Strength Training and Cardiovascular Benefits.",
+        "link": "",
+        "year": "2020",
+        "topic": "exercise_health",
+        "hierarchical_level": 1
+    },
+    {
+        "chunk_id": "Paper1Chunk4",
+        "chunk_text": "Even low-intensity physical activities, such as walking and gardening, can have a positive impact on cardiovascular health. Studies suggest that sedentary individuals who engage in even modest amounts of physical activity have a significantly reduced risk of heart disease and stroke. Walking, for instance, has been found to improve heart function, reduce inflammation, and improve circulation.",
+        "title": "Low-Intensity Physical Activity and Cardiovascular Health.",
+        "link": "",
+        "year": "2020",
+        "topic": "exercise_health",
+        "hierarchical_level": 1
+    },
+    {
+        "chunk_id": "Paper1Chunk5",
+        "chunk_text": "Long-term physical activity has been associated with a lower incidence of coronary heart disease (CHD) and a reduction in cardiovascular mortality. Regular exercise leads to the development of healthier arteries, a reduction in the plaque buildup in the blood vessels, and a lower risk of myocardial infarction. Engaging in consistent physical activity from a young age is particularly effective in preventing heart disease later in life.",
+        "title": "Long-Term Physical Activity and Cardiovascular Disease Prevention.",
+        "link": "",
+        "year": "2021",
+        "topic": "exercise_health",
+        "hierarchical_level": 1
+    },
+    {
+        "chunk_id": "Paper1Chunk6",
+        "chunk_text": "In addition to the direct benefits on cardiovascular health, regular physical activity has been shown to improve mental health, which can indirectly benefit heart health. Exercise has been linked to reduced levels of stress, anxiety, and depression, which are known risk factors for heart disease. Mind-body activities like yoga and tai chi are particularly beneficial in managing stress and improving heart rate variability.",
+        "title": "Mental Health and Its Impact on Cardiovascular Health Through Exercise.",
+        "link": "",
+        "year": "2021",
+        "topic": "exercise_health",
+        "hierarchical_level": 1
+    }, {
+        "chunk_id": "Paper1Chunk1",
+        "chunk_text": "Exercise interventions have been shown to improve cardiovascular fitness, lower blood pressure, and enhance endothelial function. Cardiovascular improvements are particularly evident in individuals with pre-existing conditions like hypertension, diabetes, or obesity. Aerobic exercises such as walking, running, and cycling are particularly effective in enhancing cardiovascular health by improving heart rate variability and arterial stiffness.",
+        "title": "Exercise Interventions for Cardiovascular Fitness.",
+        "link": "",
+        "year": "2021",
+        "topic": "exercise_health",
+        "hierarchical_level": 1
+    },
+    {
+        "chunk_id": "Paper1Chunk2",
+        "chunk_text": "High-intensity interval training (HIIT) has emerged as an effective alternative to traditional aerobic exercise for improving cardiovascular outcomes. Studies suggest that HIIT may provide similar or even superior benefits in terms of cardiovascular health, especially for those with limited time or who have difficulty engaging in prolonged exercise sessions. HIIT enhances cardiovascular endurance, reduces fat mass, and improves heart function.",
+        "title": "High-Intensity Interval Training and Cardiovascular Health.",
+        "link": "",
+        "year": "2019",
+        "topic": "exercise_health",
+        "hierarchical_level": 1
+    },
+    {
+        "chunk_id": "Paper1Chunk3",
+        "chunk_text": "Strength training, traditionally thought of as primarily beneficial for building muscle, also offers significant cardiovascular benefits. Recent research has shown that resistance training can improve cardiovascular health by lowering blood pressure, enhancing insulin sensitivity, and improving lipid profiles. Incorporating strength training into a balanced exercise routine is recommended for comprehensive cardiovascular health.",
+        "title": "Strength Training and Cardiovascular Benefits.",
+        "link": "",
+        "year": "2020",
+        "topic": "exercise_health",
+        "hierarchical_level": 1
+    },
+    {
+        "chunk_id": "Paper1Chunk4",
+        "chunk_text": "Even low-intensity physical activities, such as walking and gardening, can have a positive impact on cardiovascular health. Studies suggest that sedentary individuals who engage in even modest amounts of physical activity have a significantly reduced risk of heart disease and stroke. Walking, for instance, has been found to improve heart function, reduce inflammation, and improve circulation.",
+        "title": "Low-Intensity Physical Activity and Cardiovascular Health.",
+        "link": "",
+        "year": "2020",
+        "topic": "exercise_health",
+        "hierarchical_level": 1
+    },
+    {
+        "chunk_id": "Paper1Chunk5",
+        "chunk_text": "Long-term physical activity has been associated with a lower incidence of coronary heart disease (CHD) and a reduction in cardiovascular mortality. Regular exercise leads to the development of healthier arteries, a reduction in the plaque buildup in the blood vessels, and a lower risk of myocardial infarction. Engaging in consistent physical activity from a young age is particularly effective in preventing heart disease later in life.",
+        "title": "Long-Term Physical Activity and Cardiovascular Disease Prevention.",
+        "link": "",
+        "year": "2021",
+        "topic": "exercise_health",
+        "hierarchical_level": 1
+    },
+    {
+        "chunk_id": "Paper1Chunk6",
+        "chunk_text": "In addition to the direct benefits on cardiovascular health, regular physical activity has been shown to improve mental health, which can indirectly benefit heart health. Exercise has been linked to reduced levels of stress, anxiety, and depression, which are known risk factors for heart disease. Mind-body activities like yoga and tai chi are particularly beneficial in managing stress and improving heart rate variability.",
+        "title": "Mental Health and Its Impact on Cardiovascular Health Through Exercise.",
+        "link": "",
+        "year": "2021",
+        "topic": "exercise_health",
+        "hierarchical_level": 1
+    }, {
+        "chunk_id": "Paper1Chunk1",
+        "chunk_text": "Exercise interventions have been shown to improve cardiovascular fitness, lower blood pressure, and enhance endothelial function. Cardiovascular improvements are particularly evident in individuals with pre-existing conditions like hypertension, diabetes, or obesity. Aerobic exercises such as walking, running, and cycling are particularly effective in enhancing cardiovascular health by improving heart rate variability and arterial stiffness.",
+        "title": "Exercise Interventions for Cardiovascular Fitness.",
+        "link": "",
+        "year": "2021",
+        "topic": "exercise_health",
+        "hierarchical_level": 1
+    },
+    {
+        "chunk_id": "Paper1Chunk2",
+        "chunk_text": "High-intensity interval training (HIIT) has emerged as an effective alternative to traditional aerobic exercise for improving cardiovascular outcomes. Studies suggest that HIIT may provide similar or even superior benefits in terms of cardiovascular health, especially for those with limited time or who have difficulty engaging in prolonged exercise sessions. HIIT enhances cardiovascular endurance, reduces fat mass, and improves heart function.",
+        "title": "High-Intensity Interval Training and Cardiovascular Health.",
+        "link": "",
+        "year": "2019",
+        "topic": "exercise_health",
+        "hierarchical_level": 1
+    },
+    {
+        "chunk_id": "Paper1Chunk3",
+        "chunk_text": "Strength training, traditionally thought of as primarily beneficial for building muscle, also offers significant cardiovascular benefits. Recent research has shown that resistance training can improve cardiovascular health by lowering blood pressure, enhancing insulin sensitivity, and improving lipid profiles. Incorporating strength training into a balanced exercise routine is recommended for comprehensive cardiovascular health.",
+        "title": "Strength Training and Cardiovascular Benefits.",
+        "link": "",
+        "year": "2020",
+        "topic": "exercise_health",
+        "hierarchical_level": 1
+    },
+    {
+        "chunk_id": "Paper1Chunk4",
+        "chunk_text": "Even low-intensity physical activities, such as walking and gardening, can have a positive impact on cardiovascular health. Studies suggest that sedentary individuals who engage in even modest amounts of physical activity have a significantly reduced risk of heart disease and stroke. Walking, for instance, has been found to improve heart function, reduce inflammation, and improve circulation.",
+        "title": "Low-Intensity Physical Activity and Cardiovascular Health.",
+        "link": "",
+        "year": "2020",
+        "topic": "exercise_health",
+        "hierarchical_level": 1
+    },
+    {
+        "chunk_id": "Paper1Chunk5",
+        "chunk_text": "Long-term physical activity has been associated with a lower incidence of coronary heart disease (CHD) and a reduction in cardiovascular mortality. Regular exercise leads to the development of healthier arteries, a reduction in the plaque buildup in the blood vessels, and a lower risk of myocardial infarction. Engaging in consistent physical activity from a young age is particularly effective in preventing heart disease later in life.",
+        "title": "Long-Term Physical Activity and Cardiovascular Disease Prevention.",
+        "link": "",
+        "year": "2021",
+        "topic": "exercise_health",
+        "hierarchical_level": 1
+    },
+    {
+        "chunk_id": "Paper1Chunk6",
+        "chunk_text": "In addition to the direct benefits on cardiovascular health, regular physical activity has been shown to improve mental health, which can indirectly benefit heart health. Exercise has been linked to reduced levels of stress, anxiety, and depression, which are known risk factors for heart disease. Mind-body activities like yoga and tai chi are particularly beneficial in managing stress and improving heart rate variability.",
+        "title": "Mental Health and Its Impact on Cardiovascular Health Through Exercise.",
+        "link": "",
+        "year": "2021",
+        "topic": "exercise_health",
+        "hierarchical_level": 1
+    }, {
+        "chunk_id": "Paper1Chunk1",
+        "chunk_text": "Exercise interventions have been shown to improve cardiovascular fitness, lower blood pressure, and enhance endothelial function. Cardiovascular improvements are particularly evident in individuals with pre-existing conditions like hypertension, diabetes, or obesity. Aerobic exercises such as walking, running, and cycling are particularly effective in enhancing cardiovascular health by improving heart rate variability and arterial stiffness.",
+        "title": "Exercise Interventions for Cardiovascular Fitness.",
+        "link": "",
+        "year": "2021",
+        "topic": "exercise_health",
+        "hierarchical_level": 1
+    },
+    {
+        "chunk_id": "Paper1Chunk2",
+        "chunk_text": "High-intensity interval training (HIIT) has emerged as an effective alternative to traditional aerobic exercise for improving cardiovascular outcomes. Studies suggest that HIIT may provide similar or even superior benefits in terms of cardiovascular health, especially for those with limited time or who have difficulty engaging in prolonged exercise sessions. HIIT enhances cardiovascular endurance, reduces fat mass, and improves heart function.",
+        "title": "High-Intensity Interval Training and Cardiovascular Health.",
+        "link": "",
+        "year": "2019",
+        "topic": "exercise_health",
+        "hierarchical_level": 1
+    },
+    {
+        "chunk_id": "Paper1Chunk3",
+        "chunk_text": "Strength training, traditionally thought of as primarily beneficial for building muscle, also offers significant cardiovascular benefits. Recent research has shown that resistance training can improve cardiovascular health by lowering blood pressure, enhancing insulin sensitivity, and improving lipid profiles. Incorporating strength training into a balanced exercise routine is recommended for comprehensive cardiovascular health.",
+        "title": "Strength Training and Cardiovascular Benefits.",
+        "link": "",
+        "year": "2020",
+        "topic": "exercise_health",
+        "hierarchical_level": 1
+    },
+    {
+        "chunk_id": "Paper1Chunk4",
+        "chunk_text": "Even low-intensity physical activities, such as walking and gardening, can have a positive impact on cardiovascular health. Studies suggest that sedentary individuals who engage in even modest amounts of physical activity have a significantly reduced risk of heart disease and stroke. Walking, for instance, has been found to improve heart function, reduce inflammation, and improve circulation.",
+        "title": "Low-Intensity Physical Activity and Cardiovascular Health.",
+        "link": "",
+        "year": "2020",
+        "topic": "exercise_health",
+        "hierarchical_level": 1
+    },
+    {
+        "chunk_id": "Paper1Chunk5",
+        "chunk_text": "Long-term physical activity has been associated with a lower incidence of coronary heart disease (CHD) and a reduction in cardiovascular mortality. Regular exercise leads to the development of healthier arteries, a reduction in the plaque buildup in the blood vessels, and a lower risk of myocardial infarction. Engaging in consistent physical activity from a young age is particularly effective in preventing heart disease later in life.",
+        "title": "Long-Term Physical Activity and Cardiovascular Disease Prevention.",
+        "link": "",
+        "year": "2021",
+        "topic": "exercise_health",
+        "hierarchical_level": 1
+    },
+    {
+        "chunk_id": "Paper1Chunk6",
+        "chunk_text": "In addition to the direct benefits on cardiovascular health, regular physical activity has been shown to improve mental health, which can indirectly benefit heart health. Exercise has been linked to reduced levels of stress, anxiety, and depression, which are known risk factors for heart disease. Mind-body activities like yoga and tai chi are particularly beneficial in managing stress and improving heart rate variability.",
+        "title": "Mental Health and Its Impact on Cardiovascular Health Through Exercise.",
+        "link": "",
+        "year": "2021",
+        "topic": "exercise_health",
+        "hierarchical_level": 1
+    }, {
+        "chunk_id": "Paper1Chunk1",
+        "chunk_text": "Exercise interventions have been shown to improve cardiovascular fitness, lower blood pressure, and enhance endothelial function. Cardiovascular improvements are particularly evident in individuals with pre-existing conditions like hypertension, diabetes, or obesity. Aerobic exercises such as walking, running, and cycling are particularly effective in enhancing cardiovascular health by improving heart rate variability and arterial stiffness.",
+        "title": "Exercise Interventions for Cardiovascular Fitness.",
+        "link": "",
+        "year": "2021",
+        "topic": "exercise_health",
+        "hierarchical_level": 1
+    },
+    {
+        "chunk_id": "Paper1Chunk2",
+        "chunk_text": "High-intensity interval training (HIIT) has emerged as an effective alternative to traditional aerobic exercise for improving cardiovascular outcomes. Studies suggest that HIIT may provide similar or even superior benefits in terms of cardiovascular health, especially for those with limited time or who have difficulty engaging in prolonged exercise sessions. HIIT enhances cardiovascular endurance, reduces fat mass, and improves heart function.",
+        "title": "High-Intensity Interval Training and Cardiovascular Health.",
+        "link": "",
+        "year": "2019",
+        "topic": "exercise_health",
+        "hierarchical_level": 1
+    },
+    {
+        "chunk_id": "Paper1Chunk3",
+        "chunk_text": "Strength training, traditionally thought of as primarily beneficial for building muscle, also offers significant cardiovascular benefits. Recent research has shown that resistance training can improve cardiovascular health by lowering blood pressure, enhancing insulin sensitivity, and improving lipid profiles. Incorporating strength training into a balanced exercise routine is recommended for comprehensive cardiovascular health.",
+        "title": "Strength Training and Cardiovascular Benefits.",
+        "link": "",
+        "year": "2020",
+        "topic": "exercise_health",
+        "hierarchical_level": 1
+    },
+    {
+        "chunk_id": "Paper1Chunk4",
+        "chunk_text": "Even low-intensity physical activities, such as walking and gardening, can have a positive impact on cardiovascular health. Studies suggest that sedentary individuals who engage in even modest amounts of physical activity have a significantly reduced risk of heart disease and stroke. Walking, for instance, has been found to improve heart function, reduce inflammation, and improve circulation.",
+        "title": "Low-Intensity Physical Activity and Cardiovascular Health.",
+        "link": "",
+        "year": "2020",
+        "topic": "exercise_health",
+        "hierarchical_level": 1
+    },
+    {
+        "chunk_id": "Paper1Chunk5",
+        "chunk_text": "Long-term physical activity has been associated with a lower incidence of coronary heart disease (CHD) and a reduction in cardiovascular mortality. Regular exercise leads to the development of healthier arteries, a reduction in the plaque buildup in the blood vessels, and a lower risk of myocardial infarction. Engaging in consistent physical activity from a young age is particularly effective in preventing heart disease later in life.",
+        "title": "Long-Term Physical Activity and Cardiovascular Disease Prevention.",
+        "link": "",
+        "year": "2021",
+        "topic": "exercise_health",
+        "hierarchical_level": 1
+    },
+    {
+        "chunk_id": "Paper1Chunk6",
+        "chunk_text": "In addition to the direct benefits on cardiovascular health, regular physical activity has been shown to improve mental health, which can indirectly benefit heart health. Exercise has been linked to reduced levels of stress, anxiety, and depression, which are known risk factors for heart disease. Mind-body activities like yoga and tai chi are particularly beneficial in managing stress and improving heart rate variability.",
+        "title": "Mental Health and Its Impact on Cardiovascular Health Through Exercise.",
+        "link": "",
+        "year": "2021",
+        "topic": "exercise_health",
+        "hierarchical_level": 1
+    }, {
+        "chunk_id": "Paper1Chunk1",
+        "chunk_text": "Exercise interventions have been shown to improve cardiovascular fitness, lower blood pressure, and enhance endothelial function. Cardiovascular improvements are particularly evident in individuals with pre-existing conditions like hypertension, diabetes, or obesity. Aerobic exercises such as walking, running, and cycling are particularly effective in enhancing cardiovascular health by improving heart rate variability and arterial stiffness.",
+        "title": "Exercise Interventions for Cardiovascular Fitness.",
+        "link": "",
+        "year": "2021",
+        "topic": "exercise_health",
+        "hierarchical_level": 1
+    },
+    {
+        "chunk_id": "Paper1Chunk2",
+        "chunk_text": "High-intensity interval training (HIIT) has emerged as an effective alternative to traditional aerobic exercise for improving cardiovascular outcomes. Studies suggest that HIIT may provide similar or even superior benefits in terms of cardiovascular health, especially for those with limited time or who have difficulty engaging in prolonged exercise sessions. HIIT enhances cardiovascular endurance, reduces fat mass, and improves heart function.",
+        "title": "High-Intensity Interval Training and Cardiovascular Health.",
+        "link": "",
+        "year": "2019",
+        "topic": "exercise_health",
+        "hierarchical_level": 1
+    },
+    {
+        "chunk_id": "Paper1Chunk3",
+        "chunk_text": "Strength training, traditionally thought of as primarily beneficial for building muscle, also offers significant cardiovascular benefits. Recent research has shown that resistance training can improve cardiovascular health by lowering blood pressure, enhancing insulin sensitivity, and improving lipid profiles. Incorporating strength training into a balanced exercise routine is recommended for comprehensive cardiovascular health.",
+        "title": "Strength Training and Cardiovascular Benefits.",
+        "link": "",
+        "year": "2020",
+        "topic": "exercise_health",
+        "hierarchical_level": 1
+    },
+    {
+        "chunk_id": "Paper1Chunk4",
+        "chunk_text": "Even low-intensity physical activities, such as walking and gardening, can have a positive impact on cardiovascular health. Studies suggest that sedentary individuals who engage in even modest amounts of physical activity have a significantly reduced risk of heart disease and stroke. Walking, for instance, has been found to improve heart function, reduce inflammation, and improve circulation.",
+        "title": "Low-Intensity Physical Activity and Cardiovascular Health.",
+        "link": "",
+        "year": "2020",
+        "topic": "exercise_health",
+        "hierarchical_level": 1
+    },
+    {
+        "chunk_id": "Paper1Chunk5",
+        "chunk_text": "Long-term physical activity has been associated with a lower incidence of coronary heart disease (CHD) and a reduction in cardiovascular mortality. Regular exercise leads to the development of healthier arteries, a reduction in the plaque buildup in the blood vessels, and a lower risk of myocardial infarction. Engaging in consistent physical activity from a young age is particularly effective in preventing heart disease later in life.",
+        "title": "Long-Term Physical Activity and Cardiovascular Disease Prevention.",
+        "link": "",
+        "year": "2021",
+        "topic": "exercise_health",
+        "hierarchical_level": 1
+    },
+    {
+        "chunk_id": "Paper1Chunk6",
+        "chunk_text": "In addition to the direct benefits on cardiovascular health, regular physical activity has been shown to improve mental health, which can indirectly benefit heart health. Exercise has been linked to reduced levels of stress, anxiety, and depression, which are known risk factors for heart disease. Mind-body activities like yoga and tai chi are particularly beneficial in managing stress and improving heart rate variability.",
+        "title": "Mental Health and Its Impact on Cardiovascular Health Through Exercise.",
+        "link": "",
+        "year": "2021",
+        "topic": "exercise_health",
+        "hierarchical_level": 1
+    }, {
+        "chunk_id": "Paper1Chunk1",
+        "chunk_text": "Exercise interventions have been shown to improve cardiovascular fitness, lower blood pressure, and enhance endothelial function. Cardiovascular improvements are particularly evident in individuals with pre-existing conditions like hypertension, diabetes, or obesity. Aerobic exercises such as walking, running, and cycling are particularly effective in enhancing cardiovascular health by improving heart rate variability and arterial stiffness.",
+        "title": "Exercise Interventions for Cardiovascular Fitness.",
+        "link": "",
+        "year": "2021",
+        "topic": "exercise_health",
+        "hierarchical_level": 1
+    },
+    {
+        "chunk_id": "Paper1Chunk2",
+        "chunk_text": "High-intensity interval training (HIIT) has emerged as an effective alternative to traditional aerobic exercise for improving cardiovascular outcomes. Studies suggest that HIIT may provide similar or even superior benefits in terms of cardiovascular health, especially for those with limited time or who have difficulty engaging in prolonged exercise sessions. HIIT enhances cardiovascular endurance, reduces fat mass, and improves heart function.",
+        "title": "High-Intensity Interval Training and Cardiovascular Health.",
+        "link": "",
+        "year": "2019",
+        "topic": "exercise_health",
+        "hierarchical_level": 1
+    },
+    {
+        "chunk_id": "Paper1Chunk3",
+        "chunk_text": "Strength training, traditionally thought of as primarily beneficial for building muscle, also offers significant cardiovascular benefits. Recent research has shown that resistance training can improve cardiovascular health by lowering blood pressure, enhancing insulin sensitivity, and improving lipid profiles. Incorporating strength training into a balanced exercise routine is recommended for comprehensive cardiovascular health.",
+        "title": "Strength Training and Cardiovascular Benefits.",
+        "link": "",
+        "year": "2020",
+        "topic": "exercise_health",
+        "hierarchical_level": 1
+    },
+    {
+        "chunk_id": "Paper1Chunk4",
+        "chunk_text": "Even low-intensity physical activities, such as walking and gardening, can have a positive impact on cardiovascular health. Studies suggest that sedentary individuals who engage in even modest amounts of physical activity have a significantly reduced risk of heart disease and stroke. Walking, for instance, has been found to improve heart function, reduce inflammation, and improve circulation.",
+        "title": "Low-Intensity Physical Activity and Cardiovascular Health.",
+        "link": "",
+        "year": "2020",
+        "topic": "exercise_health",
+        "hierarchical_level": 1
+    },
+    {
+        "chunk_id": "Paper1Chunk5",
+        "chunk_text": "Long-term physical activity has been associated with a lower incidence of coronary heart disease (CHD) and a reduction in cardiovascular mortality. Regular exercise leads to the development of healthier arteries, a reduction in the plaque buildup in the blood vessels, and a lower risk of myocardial infarction. Engaging in consistent physical activity from a young age is particularly effective in preventing heart disease later in life.",
+        "title": "Long-Term Physical Activity and Cardiovascular Disease Prevention.",
+        "link": "",
+        "year": "2021",
+        "topic": "exercise_health",
+        "hierarchical_level": 1
+    },
+    {
+        "chunk_id": "Paper1Chunk6",
+        "chunk_text": "In addition to the direct benefits on cardiovascular health, regular physical activity has been shown to improve mental health, which can indirectly benefit heart health. Exercise has been linked to reduced levels of stress, anxiety, and depression, which are known risk factors for heart disease. Mind-body activities like yoga and tai chi are particularly beneficial in managing stress and improving heart rate variability.",
+        "title": "Mental Health and Its Impact on Cardiovascular Health Through Exercise.",
+        "link": "",
+        "year": "2021",
+        "topic": "exercise_health",
+        "hierarchical_level": 1
+    }, {
+        "chunk_id": "Paper1Chunk1",
+        "chunk_text": "Exercise interventions have been shown to improve cardiovascular fitness, lower blood pressure, and enhance endothelial function. Cardiovascular improvements are particularly evident in individuals with pre-existing conditions like hypertension, diabetes, or obesity. Aerobic exercises such as walking, running, and cycling are particularly effective in enhancing cardiovascular health by improving heart rate variability and arterial stiffness.",
+        "title": "Exercise Interventions for Cardiovascular Fitness.",
+        "link": "",
+        "year": "2021",
+        "topic": "exercise_health",
+        "hierarchical_level": 1
+    },
+    {
+        "chunk_id": "Paper1Chunk2",
+        "chunk_text": "High-intensity interval training (HIIT) has emerged as an effective alternative to traditional aerobic exercise for improving cardiovascular outcomes. Studies suggest that HIIT may provide similar or even superior benefits in terms of cardiovascular health, especially for those with limited time or who have difficulty engaging in prolonged exercise sessions. HIIT enhances cardiovascular endurance, reduces fat mass, and improves heart function.",
+        "title": "High-Intensity Interval Training and Cardiovascular Health.",
+        "link": "",
+        "year": "2019",
+        "topic": "exercise_health",
+        "hierarchical_level": 1
+    },
+    {
+        "chunk_id": "Paper1Chunk3",
+        "chunk_text": "Strength training, traditionally thought of as primarily beneficial for building muscle, also offers significant cardiovascular benefits. Recent research has shown that resistance training can improve cardiovascular health by lowering blood pressure, enhancing insulin sensitivity, and improving lipid profiles. Incorporating strength training into a balanced exercise routine is recommended for comprehensive cardiovascular health.",
+        "title": "Strength Training and Cardiovascular Benefits.",
+        "link": "",
+        "year": "2020",
+        "topic": "exercise_health",
+        "hierarchical_level": 1
+    },
+    {
+        "chunk_id": "Paper1Chunk4",
+        "chunk_text": "Even low-intensity physical activities, such as walking and gardening, can have a positive impact on cardiovascular health. Studies suggest that sedentary individuals who engage in even modest amounts of physical activity have a significantly reduced risk of heart disease and stroke. Walking, for instance, has been found to improve heart function, reduce inflammation, and improve circulation.",
+        "title": "Low-Intensity Physical Activity and Cardiovascular Health.",
+        "link": "",
+        "year": "2020",
+        "topic": "exercise_health",
+        "hierarchical_level": 1
+    },
+    {
+        "chunk_id": "Paper1Chunk5",
+        "chunk_text": "Long-term physical activity has been associated with a lower incidence of coronary heart disease (CHD) and a reduction in cardiovascular mortality. Regular exercise leads to the development of healthier arteries, a reduction in the plaque buildup in the blood vessels, and a lower risk of myocardial infarction. Engaging in consistent physical activity from a young age is particularly effective in preventing heart disease later in life.",
+        "title": "Long-Term Physical Activity and Cardiovascular Disease Prevention.",
+        "link": "",
+        "year": "2021",
+        "topic": "exercise_health",
+        "hierarchical_level": 1
+    },
+    {
+        "chunk_id": "Paper1Chunk6",
+        "chunk_text": "In addition to the direct benefits on cardiovascular health, regular physical activity has been shown to improve mental health, which can indirectly benefit heart health. Exercise has been linked to reduced levels of stress, anxiety, and depression, which are known risk factors for heart disease. Mind-body activities like yoga and tai chi are particularly beneficial in managing stress and improving heart rate variability.",
+        "title": "Mental Health and Its Impact on Cardiovascular Health Through Exercise.",
+        "link": "",
+        "year": "2021",
+        "topic": "exercise_health",
+        "hierarchical_level": 1
+    }, {
+        "chunk_id": "Paper1Chunk1",
+        "chunk_text": "Exercise interventions have been shown to improve cardiovascular fitness, lower blood pressure, and enhance endothelial function. Cardiovascular improvements are particularly evident in individuals with pre-existing conditions like hypertension, diabetes, or obesity. Aerobic exercises such as walking, running, and cycling are particularly effective in enhancing cardiovascular health by improving heart rate variability and arterial stiffness.",
+        "title": "Exercise Interventions for Cardiovascular Fitness.",
+        "link": "",
+        "year": "2021",
+        "topic": "exercise_health",
+        "hierarchical_level": 1
+    },
+    {
+        "chunk_id": "Paper1Chunk2",
+        "chunk_text": "High-intensity interval training (HIIT) has emerged as an effective alternative to traditional aerobic exercise for improving cardiovascular outcomes. Studies suggest that HIIT may provide similar or even superior benefits in terms of cardiovascular health, especially for those with limited time or who have difficulty engaging in prolonged exercise sessions. HIIT enhances cardiovascular endurance, reduces fat mass, and improves heart function.",
+        "title": "High-Intensity Interval Training and Cardiovascular Health.",
+        "link": "",
+        "year": "2019",
+        "topic": "exercise_health",
+        "hierarchical_level": 1
+    },
+    {
+        "chunk_id": "Paper1Chunk3",
+        "chunk_text": "Strength training, traditionally thought of as primarily beneficial for building muscle, also offers significant cardiovascular benefits. Recent research has shown that resistance training can improve cardiovascular health by lowering blood pressure, enhancing insulin sensitivity, and improving lipid profiles. Incorporating strength training into a balanced exercise routine is recommended for comprehensive cardiovascular health.",
+        "title": "Strength Training and Cardiovascular Benefits.",
+        "link": "",
+        "year": "2020",
+        "topic": "exercise_health",
+        "hierarchical_level": 1
+    },
+    {
+        "chunk_id": "Paper1Chunk4",
+        "chunk_text": "Even low-intensity physical activities, such as walking and gardening, can have a positive impact on cardiovascular health. Studies suggest that sedentary individuals who engage in even modest amounts of physical activity have a significantly reduced risk of heart disease and stroke. Walking, for instance, has been found to improve heart function, reduce inflammation, and improve circulation.",
+        "title": "Low-Intensity Physical Activity and Cardiovascular Health.",
+        "link": "",
+        "year": "2020",
+        "topic": "exercise_health",
+        "hierarchical_level": 1
+    },
+    {
+        "chunk_id": "Paper1Chunk5",
+        "chunk_text": "Long-term physical activity has been associated with a lower incidence of coronary heart disease (CHD) and a reduction in cardiovascular mortality. Regular exercise leads to the development of healthier arteries, a reduction in the plaque buildup in the blood vessels, and a lower risk of myocardial infarction. Engaging in consistent physical activity from a young age is particularly effective in preventing heart disease later in life.",
+        "title": "Long-Term Physical Activity and Cardiovascular Disease Prevention.",
+        "link": "",
+        "year": "2021",
+        "topic": "exercise_health",
+        "hierarchical_level": 1
+    },
+    {
+        "chunk_id": "Paper1Chunk6",
+        "chunk_text": "In addition to the direct benefits on cardiovascular health, regular physical activity has been shown to improve mental health, which can indirectly benefit heart health. Exercise has been linked to reduced levels of stress, anxiety, and depression, which are known risk factors for heart disease. Mind-body activities like yoga and tai chi are particularly beneficial in managing stress and improving heart rate variability.",
+        "title": "Mental Health and Its Impact on Cardiovascular Health Through Exercise.",
+        "link": "",
+        "year": "2021",
+        "topic": "exercise_health",
+        "hierarchical_level": 1
+    }, {
+        "chunk_id": "Paper1Chunk1",
+        "chunk_text": "Exercise interventions have been shown to improve cardiovascular fitness, lower blood pressure, and enhance endothelial function. Cardiovascular improvements are particularly evident in individuals with pre-existing conditions like hypertension, diabetes, or obesity. Aerobic exercises such as walking, running, and cycling are particularly effective in enhancing cardiovascular health by improving heart rate variability and arterial stiffness.",
+        "title": "Exercise Interventions for Cardiovascular Fitness.",
+        "link": "",
+        "year": "2021",
+        "topic": "exercise_health",
+        "hierarchical_level": 1
+    },
+    {
+        "chunk_id": "Paper1Chunk2",
+        "chunk_text": "High-intensity interval training (HIIT) has emerged as an effective alternative to traditional aerobic exercise for improving cardiovascular outcomes. Studies suggest that HIIT may provide similar or even superior benefits in terms of cardiovascular health, especially for those with limited time or who have difficulty engaging in prolonged exercise sessions. HIIT enhances cardiovascular endurance, reduces fat mass, and improves heart function.",
+        "title": "High-Intensity Interval Training and Cardiovascular Health.",
+        "link": "",
+        "year": "2019",
+        "topic": "exercise_health",
+        "hierarchical_level": 1
+    },
+    {
+        "chunk_id": "Paper1Chunk3",
+        "chunk_text": "Strength training, traditionally thought of as primarily beneficial for building muscle, also offers significant cardiovascular benefits. Recent research has shown that resistance training can improve cardiovascular health by lowering blood pressure, enhancing insulin sensitivity, and improving lipid profiles. Incorporating strength training into a balanced exercise routine is recommended for comprehensive cardiovascular health.",
+        "title": "Strength Training and Cardiovascular Benefits.",
+        "link": "",
+        "year": "2020",
+        "topic": "exercise_health",
+        "hierarchical_level": 1
+    },
+    {
+        "chunk_id": "Paper1Chunk4",
+        "chunk_text": "Even low-intensity physical activities, such as walking and gardening, can have a positive impact on cardiovascular health. Studies suggest that sedentary individuals who engage in even modest amounts of physical activity have a significantly reduced risk of heart disease and stroke. Walking, for instance, has been found to improve heart function, reduce inflammation, and improve circulation.",
+        "title": "Low-Intensity Physical Activity and Cardiovascular Health.",
+        "link": "",
+        "year": "2020",
+        "topic": "exercise_health",
+        "hierarchical_level": 1
+    },
+    {
+        "chunk_id": "Paper1Chunk5",
+        "chunk_text": "Long-term physical activity has been associated with a lower incidence of coronary heart disease (CHD) and a reduction in cardiovascular mortality. Regular exercise leads to the development of healthier arteries, a reduction in the plaque buildup in the blood vessels, and a lower risk of myocardial infarction. Engaging in consistent physical activity from a young age is particularly effective in preventing heart disease later in life.",
+        "title": "Long-Term Physical Activity and Cardiovascular Disease Prevention.",
+        "link": "",
+        "year": "2021",
+        "topic": "exercise_health",
+        "hierarchical_level": 1
+    },
+    {
+        "chunk_id": "Paper1Chunk6",
+        "chunk_text": "In addition to the direct benefits on cardiovascular health, regular physical activity has been shown to improve mental health, which can indirectly benefit heart health. Exercise has been linked to reduced levels of stress, anxiety, and depression, which are known risk factors for heart disease. Mind-body activities like yoga and tai chi are particularly beneficial in managing stress and improving heart rate variability.",
+        "title": "Mental Health and Its Impact on Cardiovascular Health Through Exercise.",
+        "link": "",
+        "year": "2021",
+        "topic": "exercise_health",
+        "hierarchical_level": 1
+    }, {
+        "chunk_id": "Paper1Chunk1",
+        "chunk_text": "Exercise interventions have been shown to improve cardiovascular fitness, lower blood pressure, and enhance endothelial function. Cardiovascular improvements are particularly evident in individuals with pre-existing conditions like hypertension, diabetes, or obesity. Aerobic exercises such as walking, running, and cycling are particularly effective in enhancing cardiovascular health by improving heart rate variability and arterial stiffness.",
+        "title": "Exercise Interventions for Cardiovascular Fitness.",
+        "link": "",
+        "year": "2021",
+        "topic": "exercise_health",
+        "hierarchical_level": 1
+    },
+    {
+        "chunk_id": "Paper1Chunk2",
+        "chunk_text": "High-intensity interval training (HIIT) has emerged as an effective alternative to traditional aerobic exercise for improving cardiovascular outcomes. Studies suggest that HIIT may provide similar or even superior benefits in terms of cardiovascular health, especially for those with limited time or who have difficulty engaging in prolonged exercise sessions. HIIT enhances cardiovascular endurance, reduces fat mass, and improves heart function.",
+        "title": "High-Intensity Interval Training and Cardiovascular Health.",
+        "link": "",
+        "year": "2019",
+        "topic": "exercise_health",
+        "hierarchical_level": 1
+    },
+    {
+        "chunk_id": "Paper1Chunk3",
+        "chunk_text": "Strength training, traditionally thought of as primarily beneficial for building muscle, also offers significant cardiovascular benefits. Recent research has shown that resistance training can improve cardiovascular health by lowering blood pressure, enhancing insulin sensitivity, and improving lipid profiles. Incorporating strength training into a balanced exercise routine is recommended for comprehensive cardiovascular health.",
+        "title": "Strength Training and Cardiovascular Benefits.",
+        "link": "",
+        "year": "2020",
+        "topic": "exercise_health",
+        "hierarchical_level": 1
+    },
+    {
+        "chunk_id": "Paper1Chunk4",
+        "chunk_text": "Even low-intensity physical activities, such as walking and gardening, can have a positive impact on cardiovascular health. Studies suggest that sedentary individuals who engage in even modest amounts of physical activity have a significantly reduced risk of heart disease and stroke. Walking, for instance, has been found to improve heart function, reduce inflammation, and improve circulation.",
+        "title": "Low-Intensity Physical Activity and Cardiovascular Health.",
+        "link": "",
+        "year": "2020",
+        "topic": "exercise_health",
+        "hierarchical_level": 1
+    },
+    {
+        "chunk_id": "Paper1Chunk5",
+        "chunk_text": "Long-term physical activity has been associated with a lower incidence of coronary heart disease (CHD) and a reduction in cardiovascular mortality. Regular exercise leads to the development of healthier arteries, a reduction in the plaque buildup in the blood vessels, and a lower risk of myocardial infarction. Engaging in consistent physical activity from a young age is particularly effective in preventing heart disease later in life.",
+        "title": "Long-Term Physical Activity and Cardiovascular Disease Prevention.",
+        "link": "",
+        "year": "2021",
+        "topic": "exercise_health",
+        "hierarchical_level": 1
+    },
+    {
+        "chunk_id": "Paper1Chunk6",
+        "chunk_text": "In addition to the direct benefits on cardiovascular health, regular physical activity has been shown to improve mental health, which can indirectly benefit heart health. Exercise has been linked to reduced levels of stress, anxiety, and depression, which are known risk factors for heart disease. Mind-body activities like yoga and tai chi are particularly beneficial in managing stress and improving heart rate variability.",
+        "title": "Mental Health and Its Impact on Cardiovascular Health Through Exercise.",
+        "link": "",
+        "year": "2021",
+        "topic": "exercise_health",
+        "hierarchical_level": 1
+    }, {
+        "chunk_id": "Paper1Chunk1",
+        "chunk_text": "Exercise interventions have been shown to improve cardiovascular fitness, lower blood pressure, and enhance endothelial function. Cardiovascular improvements are particularly evident in individuals with pre-existing conditions like hypertension, diabetes, or obesity. Aerobic exercises such as walking, running, and cycling are particularly effective in enhancing cardiovascular health by improving heart rate variability and arterial stiffness.",
+        "title": "Exercise Interventions for Cardiovascular Fitness.",
+        "link": "",
+        "year": "2021",
+        "topic": "exercise_health",
+        "hierarchical_level": 1
+    },
+    {
+        "chunk_id": "Paper1Chunk2",
+        "chunk_text": "High-intensity interval training (HIIT) has emerged as an effective alternative to traditional aerobic exercise for improving cardiovascular outcomes. Studies suggest that HIIT may provide similar or even superior benefits in terms of cardiovascular health, especially for those with limited time or who have difficulty engaging in prolonged exercise sessions. HIIT enhances cardiovascular endurance, reduces fat mass, and improves heart function.",
+        "title": "High-Intensity Interval Training and Cardiovascular Health.",
+        "link": "",
+        "year": "2019",
+        "topic": "exercise_health",
+        "hierarchical_level": 1
+    },
+    {
+        "chunk_id": "Paper1Chunk3",
+        "chunk_text": "Strength training, traditionally thought of as primarily beneficial for building muscle, also offers significant cardiovascular benefits. Recent research has shown that resistance training can improve cardiovascular health by lowering blood pressure, enhancing insulin sensitivity, and improving lipid profiles. Incorporating strength training into a balanced exercise routine is recommended for comprehensive cardiovascular health.",
+        "title": "Strength Training and Cardiovascular Benefits.",
+        "link": "",
+        "year": "2020",
+        "topic": "exercise_health",
+        "hierarchical_level": 1
+    },
+    {
+        "chunk_id": "Paper1Chunk4",
+        "chunk_text": "Even low-intensity physical activities, such as walking and gardening, can have a positive impact on cardiovascular health. Studies suggest that sedentary individuals who engage in even modest amounts of physical activity have a significantly reduced risk of heart disease and stroke. Walking, for instance, has been found to improve heart function, reduce inflammation, and improve circulation.",
+        "title": "Low-Intensity Physical Activity and Cardiovascular Health.",
+        "link": "",
+        "year": "2020",
+        "topic": "exercise_health",
+        "hierarchical_level": 1
+    },
+    {
+        "chunk_id": "Paper1Chunk5",
+        "chunk_text": "Long-term physical activity has been associated with a lower incidence of coronary heart disease (CHD) and a reduction in cardiovascular mortality. Regular exercise leads to the development of healthier arteries, a reduction in the plaque buildup in the blood vessels, and a lower risk of myocardial infarction. Engaging in consistent physical activity from a young age is particularly effective in preventing heart disease later in life.",
+        "title": "Long-Term Physical Activity and Cardiovascular Disease Prevention.",
+        "link": "",
+        "year": "2021",
+        "topic": "exercise_health",
+        "hierarchical_level": 1
+    },
+    {
+        "chunk_id": "Paper1Chunk6",
+        "chunk_text": "In addition to the direct benefits on cardiovascular health, regular physical activity has been shown to improve mental health, which can indirectly benefit heart health. Exercise has been linked to reduced levels of stress, anxiety, and depression, which are known risk factors for heart disease. Mind-body activities like yoga and tai chi are particularly beneficial in managing stress and improving heart rate variability.",
+        "title": "Mental Health and Its Impact on Cardiovascular Health Through Exercise.",
+        "link": "",
+        "year": "2021",
+        "topic": "exercise_health",
+        "hierarchical_level": 1
+    }, {
+        "chunk_id": "Paper1Chunk1",
+        "chunk_text": "Exercise interventions have been shown to improve cardiovascular fitness, lower blood pressure, and enhance endothelial function. Cardiovascular improvements are particularly evident in individuals with pre-existing conditions like hypertension, diabetes, or obesity. Aerobic exercises such as walking, running, and cycling are particularly effective in enhancing cardiovascular health by improving heart rate variability and arterial stiffness.",
+        "title": "Exercise Interventions for Cardiovascular Fitness.",
+        "link": "",
+        "year": "2021",
+        "topic": "exercise_health",
+        "hierarchical_level": 1
+    },
+    {
+        "chunk_id": "Paper1Chunk2",
+        "chunk_text": "High-intensity interval training (HIIT) has emerged as an effective alternative to traditional aerobic exercise for improving cardiovascular outcomes. Studies suggest that HIIT may provide similar or even superior benefits in terms of cardiovascular health, especially for those with limited time or who have difficulty engaging in prolonged exercise sessions. HIIT enhances cardiovascular endurance, reduces fat mass, and improves heart function.",
+        "title": "High-Intensity Interval Training and Cardiovascular Health.",
+        "link": "",
+        "year": "2019",
+        "topic": "exercise_health",
+        "hierarchical_level": 1
+    },
+    {
+        "chunk_id": "Paper1Chunk3",
+        "chunk_text": "Strength training, traditionally thought of as primarily beneficial for building muscle, also offers significant cardiovascular benefits. Recent research has shown that resistance training can improve cardiovascular health by lowering blood pressure, enhancing insulin sensitivity, and improving lipid profiles. Incorporating strength training into a balanced exercise routine is recommended for comprehensive cardiovascular health.",
+        "title": "Strength Training and Cardiovascular Benefits.",
+        "link": "",
+        "year": "2020",
+        "topic": "exercise_health",
+        "hierarchical_level": 1
+    },
+    {
+        "chunk_id": "Paper1Chunk4",
+        "chunk_text": "Even low-intensity physical activities, such as walking and gardening, can have a positive impact on cardiovascular health. Studies suggest that sedentary individuals who engage in even modest amounts of physical activity have a significantly reduced risk of heart disease and stroke. Walking, for instance, has been found to improve heart function, reduce inflammation, and improve circulation.",
+        "title": "Low-Intensity Physical Activity and Cardiovascular Health.",
+        "link": "",
+        "year": "2020",
+        "topic": "exercise_health",
+        "hierarchical_level": 1
+    },
+    {
+        "chunk_id": "Paper1Chunk5",
+        "chunk_text": "Long-term physical activity has been associated with a lower incidence of coronary heart disease (CHD) and a reduction in cardiovascular mortality. Regular exercise leads to the development of healthier arteries, a reduction in the plaque buildup in the blood vessels, and a lower risk of myocardial infarction. Engaging in consistent physical activity from a young age is particularly effective in preventing heart disease later in life.",
+        "title": "Long-Term Physical Activity and Cardiovascular Disease Prevention.",
+        "link": "",
+        "year": "2021",
+        "topic": "exercise_health",
+        "hierarchical_level": 1
+    },
+    {
+        "chunk_id": "Paper1Chunk6",
+        "chunk_text": "In addition to the direct benefits on cardiovascular health, regular physical activity has been shown to improve mental health, which can indirectly benefit heart health. Exercise has been linked to reduced levels of stress, anxiety, and depression, which are known risk factors for heart disease. Mind-body activities like yoga and tai chi are particularly beneficial in managing stress and improving heart rate variability.",
+        "title": "Mental Health and Its Impact on Cardiovascular Health Through Exercise.",
+        "link": "",
+        "year": "2021",
+        "topic": "exercise_health",
+        "hierarchical_level": 1
+    }, {
+        "chunk_id": "Paper1Chunk1",
+        "chunk_text": "Exercise interventions have been shown to improve cardiovascular fitness, lower blood pressure, and enhance endothelial function. Cardiovascular improvements are particularly evident in individuals with pre-existing conditions like hypertension, diabetes, or obesity. Aerobic exercises such as walking, running, and cycling are particularly effective in enhancing cardiovascular health by improving heart rate variability and arterial stiffness.",
+        "title": "Exercise Interventions for Cardiovascular Fitness.",
+        "link": "",
+        "year": "2021",
+        "topic": "exercise_health",
+        "hierarchical_level": 1
+    },
+    {
+        "chunk_id": "Paper1Chunk2",
+        "chunk_text": "High-intensity interval training (HIIT) has emerged as an effective alternative to traditional aerobic exercise for improving cardiovascular outcomes. Studies suggest that HIIT may provide similar or even superior benefits in terms of cardiovascular health, especially for those with limited time or who have difficulty engaging in prolonged exercise sessions. HIIT enhances cardiovascular endurance, reduces fat mass, and improves heart function.",
+        "title": "High-Intensity Interval Training and Cardiovascular Health.",
+        "link": "",
+        "year": "2019",
+        "topic": "exercise_health",
+        "hierarchical_level": 1
+    },
+    {
+        "chunk_id": "Paper1Chunk3",
+        "chunk_text": "Strength training, traditionally thought of as primarily beneficial for building muscle, also offers significant cardiovascular benefits. Recent research has shown that resistance training can improve cardiovascular health by lowering blood pressure, enhancing insulin sensitivity, and improving lipid profiles. Incorporating strength training into a balanced exercise routine is recommended for comprehensive cardiovascular health.",
+        "title": "Strength Training and Cardiovascular Benefits.",
+        "link": "",
+        "year": "2020",
+        "topic": "exercise_health",
+        "hierarchical_level": 1
+    },
+    {
+        "chunk_id": "Paper1Chunk4",
+        "chunk_text": "Even low-intensity physical activities, such as walking and gardening, can have a positive impact on cardiovascular health. Studies suggest that sedentary individuals who engage in even modest amounts of physical activity have a significantly reduced risk of heart disease and stroke. Walking, for instance, has been found to improve heart function, reduce inflammation, and improve circulation.",
+        "title": "Low-Intensity Physical Activity and Cardiovascular Health.",
+        "link": "",
+        "year": "2020",
+        "topic": "exercise_health",
+        "hierarchical_level": 1
+    },
+    {
+        "chunk_id": "Paper1Chunk5",
+        "chunk_text": "Long-term physical activity has been associated with a lower incidence of coronary heart disease (CHD) and a reduction in cardiovascular mortality. Regular exercise leads to the development of healthier arteries, a reduction in the plaque buildup in the blood vessels, and a lower risk of myocardial infarction. Engaging in consistent physical activity from a young age is particularly effective in preventing heart disease later in life.",
+        "title": "Long-Term Physical Activity and Cardiovascular Disease Prevention.",
+        "link": "",
+        "year": "2021",
+        "topic": "exercise_health",
+        "hierarchical_level": 1
+    },
+    {
+        "chunk_id": "Paper1Chunk6",
+        "chunk_text": "In addition to the direct benefits on cardiovascular health, regular physical activity has been shown to improve mental health, which can indirectly benefit heart health. Exercise has been linked to reduced levels of stress, anxiety, and depression, which are known risk factors for heart disease. Mind-body activities like yoga and tai chi are particularly beneficial in managing stress and improving heart rate variability.",
+        "title": "Mental Health and Its Impact on Cardiovascular Health Through Exercise.",
+        "link": "",
+        "year": "2021",
+        "topic": "exercise_health",
+        "hierarchical_level": 1
+    }, {
+        "chunk_id": "Paper1Chunk1",
+        "chunk_text": "Exercise interventions have been shown to improve cardiovascular fitness, lower blood pressure, and enhance endothelial function. Cardiovascular improvements are particularly evident in individuals with pre-existing conditions like hypertension, diabetes, or obesity. Aerobic exercises such as walking, running, and cycling are particularly effective in enhancing cardiovascular health by improving heart rate variability and arterial stiffness.",
+        "title": "Exercise Interventions for Cardiovascular Fitness.",
+        "link": "",
+        "year": "2021",
+        "topic": "exercise_health",
+        "hierarchical_level": 1
+    },
+    {
+        "chunk_id": "Paper1Chunk2",
+        "chunk_text": "High-intensity interval training (HIIT) has emerged as an effective alternative to traditional aerobic exercise for improving cardiovascular outcomes. Studies suggest that HIIT may provide similar or even superior benefits in terms of cardiovascular health, especially for those with limited time or who have difficulty engaging in prolonged exercise sessions. HIIT enhances cardiovascular endurance, reduces fat mass, and improves heart function.",
+        "title": "High-Intensity Interval Training and Cardiovascular Health.",
+        "link": "",
+        "year": "2019",
+        "topic": "exercise_health",
+        "hierarchical_level": 1
+    },
+    {
+        "chunk_id": "Paper1Chunk3",
+        "chunk_text": "Strength training, traditionally thought of as primarily beneficial for building muscle, also offers significant cardiovascular benefits. Recent research has shown that resistance training can improve cardiovascular health by lowering blood pressure, enhancing insulin sensitivity, and improving lipid profiles. Incorporating strength training into a balanced exercise routine is recommended for comprehensive cardiovascular health.",
+        "title": "Strength Training and Cardiovascular Benefits.",
+        "link": "",
+        "year": "2020",
+        "topic": "exercise_health",
+        "hierarchical_level": 1
+    },
+    {
+        "chunk_id": "Paper1Chunk4",
+        "chunk_text": "Even low-intensity physical activities, such as walking and gardening, can have a positive impact on cardiovascular health. Studies suggest that sedentary individuals who engage in even modest amounts of physical activity have a significantly reduced risk of heart disease and stroke. Walking, for instance, has been found to improve heart function, reduce inflammation, and improve circulation.",
+        "title": "Low-Intensity Physical Activity and Cardiovascular Health.",
+        "link": "",
+        "year": "2020",
+        "topic": "exercise_health",
+        "hierarchical_level": 1
+    },
+    {
+        "chunk_id": "Paper1Chunk5",
+        "chunk_text": "Long-term physical activity has been associated with a lower incidence of coronary heart disease (CHD) and a reduction in cardiovascular mortality. Regular exercise leads to the development of healthier arteries, a reduction in the plaque buildup in the blood vessels, and a lower risk of myocardial infarction. Engaging in consistent physical activity from a young age is particularly effective in preventing heart disease later in life.",
+        "title": "Long-Term Physical Activity and Cardiovascular Disease Prevention.",
+        "link": "",
+        "year": "2021",
+        "topic": "exercise_health",
+        "hierarchical_level": 1
+    },
+    {
+        "chunk_id": "Paper1Chunk6",
+        "chunk_text": "In addition to the direct benefits on cardiovascular health, regular physical activity has been shown to improve mental health, which can indirectly benefit heart health. Exercise has been linked to reduced levels of stress, anxiety, and depression, which are known risk factors for heart disease. Mind-body activities like yoga and tai chi are particularly beneficial in managing stress and improving heart rate variability.",
+        "title": "Mental Health and Its Impact on Cardiovascular Health Through Exercise.",
+        "link": "",
+        "year": "2021",
+        "topic": "exercise_health",
+        "hierarchical_level": 1
+    }, {
+        "chunk_id": "Paper1Chunk1",
+        "chunk_text": "Exercise interventions have been shown to improve cardiovascular fitness, lower blood pressure, and enhance endothelial function. Cardiovascular improvements are particularly evident in individuals with pre-existing conditions like hypertension, diabetes, or obesity. Aerobic exercises such as walking, running, and cycling are particularly effective in enhancing cardiovascular health by improving heart rate variability and arterial stiffness.",
+        "title": "Exercise Interventions for Cardiovascular Fitness.",
+        "link": "",
+        "year": "2021",
+        "topic": "exercise_health",
+        "hierarchical_level": 1
+    },
+    {
+        "chunk_id": "Paper1Chunk2",
+        "chunk_text": "High-intensity interval training (HIIT) has emerged as an effective alternative to traditional aerobic exercise for improving cardiovascular outcomes. Studies suggest that HIIT may provide similar or even superior benefits in terms of cardiovascular health, especially for those with limited time or who have difficulty engaging in prolonged exercise sessions. HIIT enhances cardiovascular endurance, reduces fat mass, and improves heart function.",
+        "title": "High-Intensity Interval Training and Cardiovascular Health.",
+        "link": "",
+        "year": "2019",
+        "topic": "exercise_health",
+        "hierarchical_level": 1
+    },
+    {
+        "chunk_id": "Paper1Chunk3",
+        "chunk_text": "Strength training, traditionally thought of as primarily beneficial for building muscle, also offers significant cardiovascular benefits. Recent research has shown that resistance training can improve cardiovascular health by lowering blood pressure, enhancing insulin sensitivity, and improving lipid profiles. Incorporating strength training into a balanced exercise routine is recommended for comprehensive cardiovascular health.",
+        "title": "Strength Training and Cardiovascular Benefits.",
+        "link": "",
+        "year": "2020",
+        "topic": "exercise_health",
+        "hierarchical_level": 1
+    },
+    {
+        "chunk_id": "Paper1Chunk4",
+        "chunk_text": "Even low-intensity physical activities, such as walking and gardening, can have a positive impact on cardiovascular health. Studies suggest that sedentary individuals who engage in even modest amounts of physical activity have a significantly reduced risk of heart disease and stroke. Walking, for instance, has been found to improve heart function, reduce inflammation, and improve circulation.",
+        "title": "Low-Intensity Physical Activity and Cardiovascular Health.",
+        "link": "",
+        "year": "2020",
+        "topic": "exercise_health",
+        "hierarchical_level": 1
+    },
+    {
+        "chunk_id": "Paper1Chunk5",
+        "chunk_text": "Long-term physical activity has been associated with a lower incidence of coronary heart disease (CHD) and a reduction in cardiovascular mortality. Regular exercise leads to the development of healthier arteries, a reduction in the plaque buildup in the blood vessels, and a lower risk of myocardial infarction. Engaging in consistent physical activity from a young age is particularly effective in preventing heart disease later in life.",
+        "title": "Long-Term Physical Activity and Cardiovascular Disease Prevention.",
+        "link": "",
+        "year": "2021",
+        "topic": "exercise_health",
+        "hierarchical_level": 1
+    },
+    {
+        "chunk_id": "Paper1Chunk6",
+        "chunk_text": "In addition to the direct benefits on cardiovascular health, regular physical activity has been shown to improve mental health, which can indirectly benefit heart health. Exercise has been linked to reduced levels of stress, anxiety, and depression, which are known risk factors for heart disease. Mind-body activities like yoga and tai chi are particularly beneficial in managing stress and improving heart rate variability.",
+        "title": "Mental Health and Its Impact on Cardiovascular Health Through Exercise.",
+        "link": "",
+        "year": "2021",
+        "topic": "exercise_health",
+        "hierarchical_level": 1
+    }, {
+        "chunk_id": "Paper1Chunk1",
+        "chunk_text": "Exercise interventions have been shown to improve cardiovascular fitness, lower blood pressure, and enhance endothelial function. Cardiovascular improvements are particularly evident in individuals with pre-existing conditions like hypertension, diabetes, or obesity. Aerobic exercises such as walking, running, and cycling are particularly effective in enhancing cardiovascular health by improving heart rate variability and arterial stiffness.",
+        "title": "Exercise Interventions for Cardiovascular Fitness.",
+        "link": "",
+        "year": "2021",
+        "topic": "exercise_health",
+        "hierarchical_level": 1
+    },
+    {
+        "chunk_id": "Paper1Chunk2",
+        "chunk_text": "High-intensity interval training (HIIT) has emerged as an effective alternative to traditional aerobic exercise for improving cardiovascular outcomes. Studies suggest that HIIT may provide similar or even superior benefits in terms of cardiovascular health, especially for those with limited time or who have difficulty engaging in prolonged exercise sessions. HIIT enhances cardiovascular endurance, reduces fat mass, and improves heart function.",
+        "title": "High-Intensity Interval Training and Cardiovascular Health.",
+        "link": "",
+        "year": "2019",
+        "topic": "exercise_health",
+        "hierarchical_level": 1
+    },
+    {
+        "chunk_id": "Paper1Chunk3",
+        "chunk_text": "Strength training, traditionally thought of as primarily beneficial for building muscle, also offers significant cardiovascular benefits. Recent research has shown that resistance training can improve cardiovascular health by lowering blood pressure, enhancing insulin sensitivity, and improving lipid profiles. Incorporating strength training into a balanced exercise routine is recommended for comprehensive cardiovascular health.",
+        "title": "Strength Training and Cardiovascular Benefits.",
+        "link": "",
+        "year": "2020",
+        "topic": "exercise_health",
+        "hierarchical_level": 1
+    },
+    {
+        "chunk_id": "Paper1Chunk4",
+        "chunk_text": "Even low-intensity physical activities, such as walking and gardening, can have a positive impact on cardiovascular health. Studies suggest that sedentary individuals who engage in even modest amounts of physical activity have a significantly reduced risk of heart disease and stroke. Walking, for instance, has been found to improve heart function, reduce inflammation, and improve circulation.",
+        "title": "Low-Intensity Physical Activity and Cardiovascular Health.",
+        "link": "",
+        "year": "2020",
+        "topic": "exercise_health",
+        "hierarchical_level": 1
+    },
+    {
+        "chunk_id": "Paper1Chunk5",
+        "chunk_text": "Long-term physical activity has been associated with a lower incidence of coronary heart disease (CHD) and a reduction in cardiovascular mortality. Regular exercise leads to the development of healthier arteries, a reduction in the plaque buildup in the blood vessels, and a lower risk of myocardial infarction. Engaging in consistent physical activity from a young age is particularly effective in preventing heart disease later in life.",
+        "title": "Long-Term Physical Activity and Cardiovascular Disease Prevention.",
+        "link": "",
+        "year": "2021",
+        "topic": "exercise_health",
+        "hierarchical_level": 1
+    },
+    {
+        "chunk_id": "Paper1Chunk6",
+        "chunk_text": "In addition to the direct benefits on cardiovascular health, regular physical activity has been shown to improve mental health, which can indirectly benefit heart health. Exercise has been linked to reduced levels of stress, anxiety, and depression, which are known risk factors for heart disease. Mind-body activities like yoga and tai chi are particularly beneficial in managing stress and improving heart rate variability.",
+        "title": "Mental Health and Its Impact on Cardiovascular Health Through Exercise.",
+        "link": "",
+        "year": "2021",
+        "topic": "exercise_health",
+        "hierarchical_level": 1
+    }, {
+        "chunk_id": "Paper1Chunk1",
+        "chunk_text": "Exercise interventions have been shown to improve cardiovascular fitness, lower blood pressure, and enhance endothelial function. Cardiovascular improvements are particularly evident in individuals with pre-existing conditions like hypertension, diabetes, or obesity. Aerobic exercises such as walking, running, and cycling are particularly effective in enhancing cardiovascular health by improving heart rate variability and arterial stiffness.",
+        "title": "Exercise Interventions for Cardiovascular Fitness.",
+        "link": "",
+        "year": "2021",
+        "topic": "exercise_health",
+        "hierarchical_level": 1
+    },
+    {
+        "chunk_id": "Paper1Chunk2",
+        "chunk_text": "High-intensity interval training (HIIT) has emerged as an effective alternative to traditional aerobic exercise for improving cardiovascular outcomes. Studies suggest that HIIT may provide similar or even superior benefits in terms of cardiovascular health, especially for those with limited time or who have difficulty engaging in prolonged exercise sessions. HIIT enhances cardiovascular endurance, reduces fat mass, and improves heart function.",
+        "title": "High-Intensity Interval Training and Cardiovascular Health.",
+        "link": "",
+        "year": "2019",
+        "topic": "exercise_health",
+        "hierarchical_level": 1
+    },
+    {
+        "chunk_id": "Paper1Chunk3",
+        "chunk_text": "Strength training, traditionally thought of as primarily beneficial for building muscle, also offers significant cardiovascular benefits. Recent research has shown that resistance training can improve cardiovascular health by lowering blood pressure, enhancing insulin sensitivity, and improving lipid profiles. Incorporating strength training into a balanced exercise routine is recommended for comprehensive cardiovascular health.",
+        "title": "Strength Training and Cardiovascular Benefits.",
+        "link": "",
+        "year": "2020",
+        "topic": "exercise_health",
+        "hierarchical_level": 1
+    },
+    {
+        "chunk_id": "Paper1Chunk4",
+        "chunk_text": "Even low-intensity physical activities, such as walking and gardening, can have a positive impact on cardiovascular health. Studies suggest that sedentary individuals who engage in even modest amounts of physical activity have a significantly reduced risk of heart disease and stroke. Walking, for instance, has been found to improve heart function, reduce inflammation, and improve circulation.",
+        "title": "Low-Intensity Physical Activity and Cardiovascular Health.",
+        "link": "",
+        "year": "2020",
+        "topic": "exercise_health",
+        "hierarchical_level": 1
+    },
+    {
+        "chunk_id": "Paper1Chunk5",
+        "chunk_text": "Long-term physical activity has been associated with a lower incidence of coronary heart disease (CHD) and a reduction in cardiovascular mortality. Regular exercise leads to the development of healthier arteries, a reduction in the plaque buildup in the blood vessels, and a lower risk of myocardial infarction. Engaging in consistent physical activity from a young age is particularly effective in preventing heart disease later in life.",
+        "title": "Long-Term Physical Activity and Cardiovascular Disease Prevention.",
+        "link": "",
+        "year": "2021",
+        "topic": "exercise_health",
+        "hierarchical_level": 1
+    },
+    {
+        "chunk_id": "Paper1Chunk6",
+        "chunk_text": "In addition to the direct benefits on cardiovascular health, regular physical activity has been shown to improve mental health, which can indirectly benefit heart health. Exercise has been linked to reduced levels of stress, anxiety, and depression, which are known risk factors for heart disease. Mind-body activities like yoga and tai chi are particularly beneficial in managing stress and improving heart rate variability.",
+        "title": "Mental Health and Its Impact on Cardiovascular Health Through Exercise.",
+        "link": "",
+        "year": "2021",
+        "topic": "exercise_health",
+        "hierarchical_level": 1
+    }, {
+        "chunk_id": "Paper1Chunk1",
+        "chunk_text": "Exercise interventions have been shown to improve cardiovascular fitness, lower blood pressure, and enhance endothelial function. Cardiovascular improvements are particularly evident in individuals with pre-existing conditions like hypertension, diabetes, or obesity. Aerobic exercises such as walking, running, and cycling are particularly effective in enhancing cardiovascular health by improving heart rate variability and arterial stiffness.",
+        "title": "Exercise Interventions for Cardiovascular Fitness.",
+        "link": "",
+        "year": "2021",
+        "topic": "exercise_health",
+        "hierarchical_level": 1
+    },
+    {
+        "chunk_id": "Paper1Chunk2",
+        "chunk_text": "High-intensity interval training (HIIT) has emerged as an effective alternative to traditional aerobic exercise for improving cardiovascular outcomes. Studies suggest that HIIT may provide similar or even superior benefits in terms of cardiovascular health, especially for those with limited time or who have difficulty engaging in prolonged exercise sessions. HIIT enhances cardiovascular endurance, reduces fat mass, and improves heart function.",
+        "title": "High-Intensity Interval Training and Cardiovascular Health.",
+        "link": "",
+        "year": "2019",
+        "topic": "exercise_health",
+        "hierarchical_level": 1
+    },
+    {
+        "chunk_id": "Paper1Chunk3",
+        "chunk_text": "Strength training, traditionally thought of as primarily beneficial for building muscle, also offers significant cardiovascular benefits. Recent research has shown that resistance training can improve cardiovascular health by lowering blood pressure, enhancing insulin sensitivity, and improving lipid profiles. Incorporating strength training into a balanced exercise routine is recommended for comprehensive cardiovascular health.",
+        "title": "Strength Training and Cardiovascular Benefits.",
+        "link": "",
+        "year": "2020",
+        "topic": "exercise_health",
+        "hierarchical_level": 1
+    },
+    {
+        "chunk_id": "Paper1Chunk4",
+        "chunk_text": "Even low-intensity physical activities, such as walking and gardening, can have a positive impact on cardiovascular health. Studies suggest that sedentary individuals who engage in even modest amounts of physical activity have a significantly reduced risk of heart disease and stroke. Walking, for instance, has been found to improve heart function, reduce inflammation, and improve circulation.",
+        "title": "Low-Intensity Physical Activity and Cardiovascular Health.",
+        "link": "",
+        "year": "2020",
+        "topic": "exercise_health",
+        "hierarchical_level": 1
+    },
+    {
+        "chunk_id": "Paper1Chunk5",
+        "chunk_text": "Long-term physical activity has been associated with a lower incidence of coronary heart disease (CHD) and a reduction in cardiovascular mortality. Regular exercise leads to the development of healthier arteries, a reduction in the plaque buildup in the blood vessels, and a lower risk of myocardial infarction. Engaging in consistent physical activity from a young age is particularly effective in preventing heart disease later in life.",
+        "title": "Long-Term Physical Activity and Cardiovascular Disease Prevention.",
+        "link": "",
+        "year": "2021",
+        "topic": "exercise_health",
+        "hierarchical_level": 1
+    },
+    {
+        "chunk_id": "Paper1Chunk6",
+        "chunk_text": "In addition to the direct benefits on cardiovascular health, regular physical activity has been shown to improve mental health, which can indirectly benefit heart health. Exercise has been linked to reduced levels of stress, anxiety, and depression, which are known risk factors for heart disease. Mind-body activities like yoga and tai chi are particularly beneficial in managing stress and improving heart rate variability.",
+        "title": "Mental Health and Its Impact on Cardiovascular Health Through Exercise.",
+        "link": "",
+        "year": "2021",
+        "topic": "exercise_health",
+        "hierarchical_level": 1
+    }, {
+        "chunk_id": "Paper1Chunk1",
+        "chunk_text": "Exercise interventions have been shown to improve cardiovascular fitness, lower blood pressure, and enhance endothelial function. Cardiovascular improvements are particularly evident in individuals with pre-existing conditions like hypertension, diabetes, or obesity. Aerobic exercises such as walking, running, and cycling are particularly effective in enhancing cardiovascular health by improving heart rate variability and arterial stiffness.",
+        "title": "Exercise Interventions for Cardiovascular Fitness.",
+        "link": "",
+        "year": "2021",
+        "topic": "exercise_health",
+        "hierarchical_level": 1
+    },
+    {
+        "chunk_id": "Paper1Chunk2",
+        "chunk_text": "High-intensity interval training (HIIT) has emerged as an effective alternative to traditional aerobic exercise for improving cardiovascular outcomes. Studies suggest that HIIT may provide similar or even superior benefits in terms of cardiovascular health, especially for those with limited time or who have difficulty engaging in prolonged exercise sessions. HIIT enhances cardiovascular endurance, reduces fat mass, and improves heart function.",
+        "title": "High-Intensity Interval Training and Cardiovascular Health.",
+        "link": "",
+        "year": "2019",
+        "topic": "exercise_health",
+        "hierarchical_level": 1
+    },
+    {
+        "chunk_id": "Paper1Chunk3",
+        "chunk_text": "Strength training, traditionally thought of as primarily beneficial for building muscle, also offers significant cardiovascular benefits. Recent research has shown that resistance training can improve cardiovascular health by lowering blood pressure, enhancing insulin sensitivity, and improving lipid profiles. Incorporating strength training into a balanced exercise routine is recommended for comprehensive cardiovascular health.",
+        "title": "Strength Training and Cardiovascular Benefits.",
+        "link": "",
+        "year": "2020",
+        "topic": "exercise_health",
+        "hierarchical_level": 1
+    },
+    {
+        "chunk_id": "Paper1Chunk4",
+        "chunk_text": "Even low-intensity physical activities, such as walking and gardening, can have a positive impact on cardiovascular health. Studies suggest that sedentary individuals who engage in even modest amounts of physical activity have a significantly reduced risk of heart disease and stroke. Walking, for instance, has been found to improve heart function, reduce inflammation, and improve circulation.",
+        "title": "Low-Intensity Physical Activity and Cardiovascular Health.",
+        "link": "",
+        "year": "2020",
+        "topic": "exercise_health",
+        "hierarchical_level": 1
+    },
+    {
+        "chunk_id": "Paper1Chunk5",
+        "chunk_text": "Long-term physical activity has been associated with a lower incidence of coronary heart disease (CHD) and a reduction in cardiovascular mortality. Regular exercise leads to the development of healthier arteries, a reduction in the plaque buildup in the blood vessels, and a lower risk of myocardial infarction. Engaging in consistent physical activity from a young age is particularly effective in preventing heart disease later in life.",
+        "title": "Long-Term Physical Activity and Cardiovascular Disease Prevention.",
+        "link": "",
+        "year": "2021",
+        "topic": "exercise_health",
+        "hierarchical_level": 1
+    },
+    {
+        "chunk_id": "Paper1Chunk6",
+        "chunk_text": "In addition to the direct benefits on cardiovascular health, regular physical activity has been shown to improve mental health, which can indirectly benefit heart health. Exercise has been linked to reduced levels of stress, anxiety, and depression, which are known risk factors for heart disease. Mind-body activities like yoga and tai chi are particularly beneficial in managing stress and improving heart rate variability.",
+        "title": "Mental Health and Its Impact on Cardiovascular Health Through Exercise.",
+        "link": "",
+        "year": "2021",
+        "topic": "exercise_health",
+        "hierarchical_level": 1
+    }, {
+        "chunk_id": "Paper1Chunk1",
+        "chunk_text": "Exercise interventions have been shown to improve cardiovascular fitness, lower blood pressure, and enhance endothelial function. Cardiovascular improvements are particularly evident in individuals with pre-existing conditions like hypertension, diabetes, or obesity. Aerobic exercises such as walking, running, and cycling are particularly effective in enhancing cardiovascular health by improving heart rate variability and arterial stiffness.",
+        "title": "Exercise Interventions for Cardiovascular Fitness.",
+        "link": "",
+        "year": "2021",
+        "topic": "exercise_health",
+        "hierarchical_level": 1
+    },
+    {
+        "chunk_id": "Paper1Chunk2",
+        "chunk_text": "High-intensity interval training (HIIT) has emerged as an effective alternative to traditional aerobic exercise for improving cardiovascular outcomes. Studies suggest that HIIT may provide similar or even superior benefits in terms of cardiovascular health, especially for those with limited time or who have difficulty engaging in prolonged exercise sessions. HIIT enhances cardiovascular endurance, reduces fat mass, and improves heart function.",
+        "title": "High-Intensity Interval Training and Cardiovascular Health.",
+        "link": "",
+        "year": "2019",
+        "topic": "exercise_health",
+        "hierarchical_level": 1
+    },
+    {
+        "chunk_id": "Paper1Chunk3",
+        "chunk_text": "Strength training, traditionally thought of as primarily beneficial for building muscle, also offers significant cardiovascular benefits. Recent research has shown that resistance training can improve cardiovascular health by lowering blood pressure, enhancing insulin sensitivity, and improving lipid profiles. Incorporating strength training into a balanced exercise routine is recommended for comprehensive cardiovascular health.",
+        "title": "Strength Training and Cardiovascular Benefits.",
+        "link": "",
+        "year": "2020",
+        "topic": "exercise_health",
+        "hierarchical_level": 1
+    },
+    {
+        "chunk_id": "Paper1Chunk4",
+        "chunk_text": "Even low-intensity physical activities, such as walking and gardening, can have a positive impact on cardiovascular health. Studies suggest that sedentary individuals who engage in even modest amounts of physical activity have a significantly reduced risk of heart disease and stroke. Walking, for instance, has been found to improve heart function, reduce inflammation, and improve circulation.",
+        "title": "Low-Intensity Physical Activity and Cardiovascular Health.",
+        "link": "",
+        "year": "2020",
+        "topic": "exercise_health",
+        "hierarchical_level": 1
+    },
+    {
+        "chunk_id": "Paper1Chunk5",
+        "chunk_text": "Long-term physical activity has been associated with a lower incidence of coronary heart disease (CHD) and a reduction in cardiovascular mortality. Regular exercise leads to the development of healthier arteries, a reduction in the plaque buildup in the blood vessels, and a lower risk of myocardial infarction. Engaging in consistent physical activity from a young age is particularly effective in preventing heart disease later in life.",
+        "title": "Long-Term Physical Activity and Cardiovascular Disease Prevention.",
+        "link": "",
+        "year": "2021",
+        "topic": "exercise_health",
+        "hierarchical_level": 1
+    },
+    {
+        "chunk_id": "Paper1Chunk6",
+        "chunk_text": "In addition to the direct benefits on cardiovascular health, regular physical activity has been shown to improve mental health, which can indirectly benefit heart health. Exercise has been linked to reduced levels of stress, anxiety, and depression, which are known risk factors for heart disease. Mind-body activities like yoga and tai chi are particularly beneficial in managing stress and improving heart rate variability.",
+        "title": "Mental Health and Its Impact on Cardiovascular Health Through Exercise.",
+        "link": "",
+        "year": "2021",
+        "topic": "exercise_health",
+        "hierarchical_level": 1
+    }, {
+        "chunk_id": "Paper1Chunk1",
+        "chunk_text": "Exercise interventions have been shown to improve cardiovascular fitness, lower blood pressure, and enhance endothelial function. Cardiovascular improvements are particularly evident in individuals with pre-existing conditions like hypertension, diabetes, or obesity. Aerobic exercises such as walking, running, and cycling are particularly effective in enhancing cardiovascular health by improving heart rate variability and arterial stiffness.",
+        "title": "Exercise Interventions for Cardiovascular Fitness.",
+        "link": "",
+        "year": "2021",
+        "topic": "exercise_health",
+        "hierarchical_level": 1
+    },
+    {
+        "chunk_id": "Paper1Chunk2",
+        "chunk_text": "High-intensity interval training (HIIT) has emerged as an effective alternative to traditional aerobic exercise for improving cardiovascular outcomes. Studies suggest that HIIT may provide similar or even superior benefits in terms of cardiovascular health, especially for those with limited time or who have difficulty engaging in prolonged exercise sessions. HIIT enhances cardiovascular endurance, reduces fat mass, and improves heart function.",
+        "title": "High-Intensity Interval Training and Cardiovascular Health.",
+        "link": "",
+        "year": "2019",
+        "topic": "exercise_health",
+        "hierarchical_level": 1
+    },
+    {
+        "chunk_id": "Paper1Chunk3",
+        "chunk_text": "Strength training, traditionally thought of as primarily beneficial for building muscle, also offers significant cardiovascular benefits. Recent research has shown that resistance training can improve cardiovascular health by lowering blood pressure, enhancing insulin sensitivity, and improving lipid profiles. Incorporating strength training into a balanced exercise routine is recommended for comprehensive cardiovascular health.",
+        "title": "Strength Training and Cardiovascular Benefits.",
+        "link": "",
+        "year": "2020",
+        "topic": "exercise_health",
+        "hierarchical_level": 1
+    },
+    {
+        "chunk_id": "Paper1Chunk4",
+        "chunk_text": "Even low-intensity physical activities, such as walking and gardening, can have a positive impact on cardiovascular health. Studies suggest that sedentary individuals who engage in even modest amounts of physical activity have a significantly reduced risk of heart disease and stroke. Walking, for instance, has been found to improve heart function, reduce inflammation, and improve circulation.",
+        "title": "Low-Intensity Physical Activity and Cardiovascular Health.",
+        "link": "",
+        "year": "2020",
+        "topic": "exercise_health",
+        "hierarchical_level": 1
+    },
+    {
+        "chunk_id": "Paper1Chunk5",
+        "chunk_text": "Long-term physical activity has been associated with a lower incidence of coronary heart disease (CHD) and a reduction in cardiovascular mortality. Regular exercise leads to the development of healthier arteries, a reduction in the plaque buildup in the blood vessels, and a lower risk of myocardial infarction. Engaging in consistent physical activity from a young age is particularly effective in preventing heart disease later in life.",
+        "title": "Long-Term Physical Activity and Cardiovascular Disease Prevention.",
+        "link": "",
+        "year": "2021",
+        "topic": "exercise_health",
+        "hierarchical_level": 1
+    },
+    {
+        "chunk_id": "Paper1Chunk6",
+        "chunk_text": "In addition to the direct benefits on cardiovascular health, regular physical activity has been shown to improve mental health, which can indirectly benefit heart health. Exercise has been linked to reduced levels of stress, anxiety, and depression, which are known risk factors for heart disease. Mind-body activities like yoga and tai chi are particularly beneficial in managing stress and improving heart rate variability.",
+        "title": "Mental Health and Its Impact on Cardiovascular Health Through Exercise.",
+        "link": "",
+        "year": "2021",
+        "topic": "exercise_health",
+        "hierarchical_level": 1
+    }, {
+        "chunk_id": "Paper1Chunk1",
+        "chunk_text": "Exercise interventions have been shown to improve cardiovascular fitness, lower blood pressure, and enhance endothelial function. Cardiovascular improvements are particularly evident in individuals with pre-existing conditions like hypertension, diabetes, or obesity. Aerobic exercises such as walking, running, and cycling are particularly effective in enhancing cardiovascular health by improving heart rate variability and arterial stiffness.",
+        "title": "Exercise Interventions for Cardiovascular Fitness.",
+        "link": "",
+        "year": "2021",
+        "topic": "exercise_health",
+        "hierarchical_level": 1
+    },
+    {
+        "chunk_id": "Paper1Chunk2",
+        "chunk_text": "High-intensity interval training (HIIT) has emerged as an effective alternative to traditional aerobic exercise for improving cardiovascular outcomes. Studies suggest that HIIT may provide similar or even superior benefits in terms of cardiovascular health, especially for those with limited time or who have difficulty engaging in prolonged exercise sessions. HIIT enhances cardiovascular endurance, reduces fat mass, and improves heart function.",
+        "title": "High-Intensity Interval Training and Cardiovascular Health.",
+        "link": "",
+        "year": "2019",
+        "topic": "exercise_health",
+        "hierarchical_level": 1
+    },
+    {
+        "chunk_id": "Paper1Chunk3",
+        "chunk_text": "Strength training, traditionally thought of as primarily beneficial for building muscle, also offers significant cardiovascular benefits. Recent research has shown that resistance training can improve cardiovascular health by lowering blood pressure, enhancing insulin sensitivity, and improving lipid profiles. Incorporating strength training into a balanced exercise routine is recommended for comprehensive cardiovascular health.",
+        "title": "Strength Training and Cardiovascular Benefits.",
+        "link": "",
+        "year": "2020",
+        "topic": "exercise_health",
+        "hierarchical_level": 1
+    },
+    {
+        "chunk_id": "Paper1Chunk4",
+        "chunk_text": "Even low-intensity physical activities, such as walking and gardening, can have a positive impact on cardiovascular health. Studies suggest that sedentary individuals who engage in even modest amounts of physical activity have a significantly reduced risk of heart disease and stroke. Walking, for instance, has been found to improve heart function, reduce inflammation, and improve circulation.",
+        "title": "Low-Intensity Physical Activity and Cardiovascular Health.",
+        "link": "",
+        "year": "2020",
+        "topic": "exercise_health",
+        "hierarchical_level": 1
+    },
+    {
+        "chunk_id": "Paper1Chunk5",
+        "chunk_text": "Long-term physical activity has been associated with a lower incidence of coronary heart disease (CHD) and a reduction in cardiovascular mortality. Regular exercise leads to the development of healthier arteries, a reduction in the plaque buildup in the blood vessels, and a lower risk of myocardial infarction. Engaging in consistent physical activity from a young age is particularly effective in preventing heart disease later in life.",
+        "title": "Long-Term Physical Activity and Cardiovascular Disease Prevention.",
+        "link": "",
+        "year": "2021",
+        "topic": "exercise_health",
+        "hierarchical_level": 1
+    },
+    {
+        "chunk_id": "Paper1Chunk6",
+        "chunk_text": "In addition to the direct benefits on cardiovascular health, regular physical activity has been shown to improve mental health, which can indirectly benefit heart health. Exercise has been linked to reduced levels of stress, anxiety, and depression, which are known risk factors for heart disease. Mind-body activities like yoga and tai chi are particularly beneficial in managing stress and improving heart rate variability.",
+        "title": "Mental Health and Its Impact on Cardiovascular Health Through Exercise.",
+        "link": "",
+        "year": "2021",
+        "topic": "exercise_health",
+        "hierarchical_level": 1
+    }, {
+        "chunk_id": "Paper1Chunk1",
+        "chunk_text": "Exercise interventions have been shown to improve cardiovascular fitness, lower blood pressure, and enhance endothelial function. Cardiovascular improvements are particularly evident in individuals with pre-existing conditions like hypertension, diabetes, or obesity. Aerobic exercises such as walking, running, and cycling are particularly effective in enhancing cardiovascular health by improving heart rate variability and arterial stiffness.",
+        "title": "Exercise Interventions for Cardiovascular Fitness.",
+        "link": "",
+        "year": "2021",
+        "topic": "exercise_health",
+        "hierarchical_level": 1
+    },
+    {
+        "chunk_id": "Paper1Chunk2",
+        "chunk_text": "High-intensity interval training (HIIT) has emerged as an effective alternative to traditional aerobic exercise for improving cardiovascular outcomes. Studies suggest that HIIT may provide similar or even superior benefits in terms of cardiovascular health, especially for those with limited time or who have difficulty engaging in prolonged exercise sessions. HIIT enhances cardiovascular endurance, reduces fat mass, and improves heart function.",
+        "title": "High-Intensity Interval Training and Cardiovascular Health.",
+        "link": "",
+        "year": "2019",
+        "topic": "exercise_health",
+        "hierarchical_level": 1
+    },
+    {
+        "chunk_id": "Paper1Chunk3",
+        "chunk_text": "Strength training, traditionally thought of as primarily beneficial for building muscle, also offers significant cardiovascular benefits. Recent research has shown that resistance training can improve cardiovascular health by lowering blood pressure, enhancing insulin sensitivity, and improving lipid profiles. Incorporating strength training into a balanced exercise routine is recommended for comprehensive cardiovascular health.",
+        "title": "Strength Training and Cardiovascular Benefits.",
+        "link": "",
+        "year": "2020",
+        "topic": "exercise_health",
+        "hierarchical_level": 1
+    },
+    {
+        "chunk_id": "Paper1Chunk4",
+        "chunk_text": "Even low-intensity physical activities, such as walking and gardening, can have a positive impact on cardiovascular health. Studies suggest that sedentary individuals who engage in even modest amounts of physical activity have a significantly reduced risk of heart disease and stroke. Walking, for instance, has been found to improve heart function, reduce inflammation, and improve circulation.",
+        "title": "Low-Intensity Physical Activity and Cardiovascular Health.",
+        "link": "",
+        "year": "2020",
+        "topic": "exercise_health",
+        "hierarchical_level": 1
+    },
+    {
+        "chunk_id": "Paper1Chunk5",
+        "chunk_text": "Long-term physical activity has been associated with a lower incidence of coronary heart disease (CHD) and a reduction in cardiovascular mortality. Regular exercise leads to the development of healthier arteries, a reduction in the plaque buildup in the blood vessels, and a lower risk of myocardial infarction. Engaging in consistent physical activity from a young age is particularly effective in preventing heart disease later in life.",
+        "title": "Long-Term Physical Activity and Cardiovascular Disease Prevention.",
+        "link": "",
+        "year": "2021",
+        "topic": "exercise_health",
+        "hierarchical_level": 1
+    },
+    {
+        "chunk_id": "Paper1Chunk6",
+        "chunk_text": "In addition to the direct benefits on cardiovascular health, regular physical activity has been shown to improve mental health, which can indirectly benefit heart health. Exercise has been linked to reduced levels of stress, anxiety, and depression, which are known risk factors for heart disease. Mind-body activities like yoga and tai chi are particularly beneficial in managing stress and improving heart rate variability.",
+        "title": "Mental Health and Its Impact on Cardiovascular Health Through Exercise.",
+        "link": "",
+        "year": "2021",
+        "topic": "exercise_health",
+        "hierarchical_level": 1
+    }, {
+        "chunk_id": "Paper1Chunk1",
+        "chunk_text": "Exercise interventions have been shown to improve cardiovascular fitness, lower blood pressure, and enhance endothelial function. Cardiovascular improvements are particularly evident in individuals with pre-existing conditions like hypertension, diabetes, or obesity. Aerobic exercises such as walking, running, and cycling are particularly effective in enhancing cardiovascular health by improving heart rate variability and arterial stiffness.",
+        "title": "Exercise Interventions for Cardiovascular Fitness.",
+        "link": "",
+        "year": "2021",
+        "topic": "exercise_health",
+        "hierarchical_level": 1
+    },
+    {
+        "chunk_id": "Paper1Chunk2",
+        "chunk_text": "High-intensity interval training (HIIT) has emerged as an effective alternative to traditional aerobic exercise for improving cardiovascular outcomes. Studies suggest that HIIT may provide similar or even superior benefits in terms of cardiovascular health, especially for those with limited time or who have difficulty engaging in prolonged exercise sessions. HIIT enhances cardiovascular endurance, reduces fat mass, and improves heart function.",
+        "title": "High-Intensity Interval Training and Cardiovascular Health.",
+        "link": "",
+        "year": "2019",
+        "topic": "exercise_health",
+        "hierarchical_level": 1
+    },
+    {
+        "chunk_id": "Paper1Chunk3",
+        "chunk_text": "Strength training, traditionally thought of as primarily beneficial for building muscle, also offers significant cardiovascular benefits. Recent research has shown that resistance training can improve cardiovascular health by lowering blood pressure, enhancing insulin sensitivity, and improving lipid profiles. Incorporating strength training into a balanced exercise routine is recommended for comprehensive cardiovascular health.",
+        "title": "Strength Training and Cardiovascular Benefits.",
+        "link": "",
+        "year": "2020",
+        "topic": "exercise_health",
+        "hierarchical_level": 1
+    },
+    {
+        "chunk_id": "Paper1Chunk4",
+        "chunk_text": "Even low-intensity physical activities, such as walking and gardening, can have a positive impact on cardiovascular health. Studies suggest that sedentary individuals who engage in even modest amounts of physical activity have a significantly reduced risk of heart disease and stroke. Walking, for instance, has been found to improve heart function, reduce inflammation, and improve circulation.",
+        "title": "Low-Intensity Physical Activity and Cardiovascular Health.",
+        "link": "",
+        "year": "2020",
+        "topic": "exercise_health",
+        "hierarchical_level": 1
+    },
+    {
+        "chunk_id": "Paper1Chunk5",
+        "chunk_text": "Long-term physical activity has been associated with a lower incidence of coronary heart disease (CHD) and a reduction in cardiovascular mortality. Regular exercise leads to the development of healthier arteries, a reduction in the plaque buildup in the blood vessels, and a lower risk of myocardial infarction. Engaging in consistent physical activity from a young age is particularly effective in preventing heart disease later in life.",
+        "title": "Long-Term Physical Activity and Cardiovascular Disease Prevention.",
+        "link": "",
+        "year": "2021",
+        "topic": "exercise_health",
+        "hierarchical_level": 1
+    },
+    {
+        "chunk_id": "Paper1Chunk6",
+        "chunk_text": "In addition to the direct benefits on cardiovascular health, regular physical activity has been shown to improve mental health, which can indirectly benefit heart health. Exercise has been linked to reduced levels of stress, anxiety, and depression, which are known risk factors for heart disease. Mind-body activities like yoga and tai chi are particularly beneficial in managing stress and improving heart rate variability.",
+        "title": "Mental Health and Its Impact on Cardiovascular Health Through Exercise.",
+        "link": "",
+        "year": "2021",
+        "topic": "exercise_health",
+        "hierarchical_level": 1
+    }, {
+        "chunk_id": "Paper1Chunk1",
+        "chunk_text": "Exercise interventions have been shown to improve cardiovascular fitness, lower blood pressure, and enhance endothelial function. Cardiovascular improvements are particularly evident in individuals with pre-existing conditions like hypertension, diabetes, or obesity. Aerobic exercises such as walking, running, and cycling are particularly effective in enhancing cardiovascular health by improving heart rate variability and arterial stiffness.",
+        "title": "Exercise Interventions for Cardiovascular Fitness.",
+        "link": "",
+        "year": "2021",
+        "topic": "exercise_health",
+        "hierarchical_level": 1
+    },
+    {
+        "chunk_id": "Paper1Chunk2",
+        "chunk_text": "High-intensity interval training (HIIT) has emerged as an effective alternative to traditional aerobic exercise for improving cardiovascular outcomes. Studies suggest that HIIT may provide similar or even superior benefits in terms of cardiovascular health, especially for those with limited time or who have difficulty engaging in prolonged exercise sessions. HIIT enhances cardiovascular endurance, reduces fat mass, and improves heart function.",
+        "title": "High-Intensity Interval Training and Cardiovascular Health.",
+        "link": "",
+        "year": "2019",
+        "topic": "exercise_health",
+        "hierarchical_level": 1
+    },
+    {
+        "chunk_id": "Paper1Chunk3",
+        "chunk_text": "Strength training, traditionally thought of as primarily beneficial for building muscle, also offers significant cardiovascular benefits. Recent research has shown that resistance training can improve cardiovascular health by lowering blood pressure, enhancing insulin sensitivity, and improving lipid profiles. Incorporating strength training into a balanced exercise routine is recommended for comprehensive cardiovascular health.",
+        "title": "Strength Training and Cardiovascular Benefits.",
+        "link": "",
+        "year": "2020",
+        "topic": "exercise_health",
+        "hierarchical_level": 1
+    },
+    {
+        "chunk_id": "Paper1Chunk4",
+        "chunk_text": "Even low-intensity physical activities, such as walking and gardening, can have a positive impact on cardiovascular health. Studies suggest that sedentary individuals who engage in even modest amounts of physical activity have a significantly reduced risk of heart disease and stroke. Walking, for instance, has been found to improve heart function, reduce inflammation, and improve circulation.",
+        "title": "Low-Intensity Physical Activity and Cardiovascular Health.",
+        "link": "",
+        "year": "2020",
+        "topic": "exercise_health",
+        "hierarchical_level": 1
+    },
+    {
+        "chunk_id": "Paper1Chunk5",
+        "chunk_text": "Long-term physical activity has been associated with a lower incidence of coronary heart disease (CHD) and a reduction in cardiovascular mortality. Regular exercise leads to the development of healthier arteries, a reduction in the plaque buildup in the blood vessels, and a lower risk of myocardial infarction. Engaging in consistent physical activity from a young age is particularly effective in preventing heart disease later in life.",
+        "title": "Long-Term Physical Activity and Cardiovascular Disease Prevention.",
+        "link": "",
+        "year": "2021",
+        "topic": "exercise_health",
+        "hierarchical_level": 1
+    },
+    {
+        "chunk_id": "Paper1Chunk6",
+        "chunk_text": "In addition to the direct benefits on cardiovascular health, regular physical activity has been shown to improve mental health, which can indirectly benefit heart health. Exercise has been linked to reduced levels of stress, anxiety, and depression, which are known risk factors for heart disease. Mind-body activities like yoga and tai chi are particularly beneficial in managing stress and improving heart rate variability.",
+        "title": "Mental Health and Its Impact on Cardiovascular Health Through Exercise.",
+        "link": "",
+        "year": "2021",
+        "topic": "exercise_health",
+        "hierarchical_level": 1
+    }, {
+        "chunk_id": "Paper1Chunk1",
+        "chunk_text": "Exercise interventions have been shown to improve cardiovascular fitness, lower blood pressure, and enhance endothelial function. Cardiovascular improvements are particularly evident in individuals with pre-existing conditions like hypertension, diabetes, or obesity. Aerobic exercises such as walking, running, and cycling are particularly effective in enhancing cardiovascular health by improving heart rate variability and arterial stiffness.",
+        "title": "Exercise Interventions for Cardiovascular Fitness.",
+        "link": "",
+        "year": "2021",
+        "topic": "exercise_health",
+        "hierarchical_level": 1
+    },
+    {
+        "chunk_id": "Paper1Chunk2",
+        "chunk_text": "High-intensity interval training (HIIT) has emerged as an effective alternative to traditional aerobic exercise for improving cardiovascular outcomes. Studies suggest that HIIT may provide similar or even superior benefits in terms of cardiovascular health, especially for those with limited time or who have difficulty engaging in prolonged exercise sessions. HIIT enhances cardiovascular endurance, reduces fat mass, and improves heart function.",
+        "title": "High-Intensity Interval Training and Cardiovascular Health.",
+        "link": "",
+        "year": "2019",
+        "topic": "exercise_health",
+        "hierarchical_level": 1
+    },
+    {
+        "chunk_id": "Paper1Chunk3",
+        "chunk_text": "Strength training, traditionally thought of as primarily beneficial for building muscle, also offers significant cardiovascular benefits. Recent research has shown that resistance training can improve cardiovascular health by lowering blood pressure, enhancing insulin sensitivity, and improving lipid profiles. Incorporating strength training into a balanced exercise routine is recommended for comprehensive cardiovascular health.",
+        "title": "Strength Training and Cardiovascular Benefits.",
+        "link": "",
+        "year": "2020",
+        "topic": "exercise_health",
+        "hierarchical_level": 1
+    },
+    {
+        "chunk_id": "Paper1Chunk4",
+        "chunk_text": "Even low-intensity physical activities, such as walking and gardening, can have a positive impact on cardiovascular health. Studies suggest that sedentary individuals who engage in even modest amounts of physical activity have a significantly reduced risk of heart disease and stroke. Walking, for instance, has been found to improve heart function, reduce inflammation, and improve circulation.",
+        "title": "Low-Intensity Physical Activity and Cardiovascular Health.",
+        "link": "",
+        "year": "2020",
+        "topic": "exercise_health",
+        "hierarchical_level": 1
+    },
+    {
+        "chunk_id": "Paper1Chunk5",
+        "chunk_text": "Long-term physical activity has been associated with a lower incidence of coronary heart disease (CHD) and a reduction in cardiovascular mortality. Regular exercise leads to the development of healthier arteries, a reduction in the plaque buildup in the blood vessels, and a lower risk of myocardial infarction. Engaging in consistent physical activity from a young age is particularly effective in preventing heart disease later in life.",
+        "title": "Long-Term Physical Activity and Cardiovascular Disease Prevention.",
+        "link": "",
+        "year": "2021",
+        "topic": "exercise_health",
+        "hierarchical_level": 1
+    },
+    {
+        "chunk_id": "Paper1Chunk6",
+        "chunk_text": "In addition to the direct benefits on cardiovascular health, regular physical activity has been shown to improve mental health, which can indirectly benefit heart health. Exercise has been linked to reduced levels of stress, anxiety, and depression, which are known risk factors for heart disease. Mind-body activities like yoga and tai chi are particularly beneficial in managing stress and improving heart rate variability.",
+        "title": "Mental Health and Its Impact on Cardiovascular Health Through Exercise.",
+        "link": "",
+        "year": "2021",
+        "topic": "exercise_health",
+        "hierarchical_level": 1
+    }, {
+        "chunk_id": "Paper1Chunk1",
+        "chunk_text": "Exercise interventions have been shown to improve cardiovascular fitness, lower blood pressure, and enhance endothelial function. Cardiovascular improvements are particularly evident in individuals with pre-existing conditions like hypertension, diabetes, or obesity. Aerobic exercises such as walking, running, and cycling are particularly effective in enhancing cardiovascular health by improving heart rate variability and arterial stiffness.",
+        "title": "Exercise Interventions for Cardiovascular Fitness.",
+        "link": "",
+        "year": "2021",
+        "topic": "exercise_health",
+        "hierarchical_level": 1
+    },
+    {
+        "chunk_id": "Paper1Chunk2",
+        "chunk_text": "High-intensity interval training (HIIT) has emerged as an effective alternative to traditional aerobic exercise for improving cardiovascular outcomes. Studies suggest that HIIT may provide similar or even superior benefits in terms of cardiovascular health, especially for those with limited time or who have difficulty engaging in prolonged exercise sessions. HIIT enhances cardiovascular endurance, reduces fat mass, and improves heart function.",
+        "title": "High-Intensity Interval Training and Cardiovascular Health.",
+        "link": "",
+        "year": "2019",
+        "topic": "exercise_health",
+        "hierarchical_level": 1
+    },
+    {
+        "chunk_id": "Paper1Chunk3",
+        "chunk_text": "Strength training, traditionally thought of as primarily beneficial for building muscle, also offers significant cardiovascular benefits. Recent research has shown that resistance training can improve cardiovascular health by lowering blood pressure, enhancing insulin sensitivity, and improving lipid profiles. Incorporating strength training into a balanced exercise routine is recommended for comprehensive cardiovascular health.",
+        "title": "Strength Training and Cardiovascular Benefits.",
+        "link": "",
+        "year": "2020",
+        "topic": "exercise_health",
+        "hierarchical_level": 1
+    },
+    {
+        "chunk_id": "Paper1Chunk4",
+        "chunk_text": "Even low-intensity physical activities, such as walking and gardening, can have a positive impact on cardiovascular health. Studies suggest that sedentary individuals who engage in even modest amounts of physical activity have a significantly reduced risk of heart disease and stroke. Walking, for instance, has been found to improve heart function, reduce inflammation, and improve circulation.",
+        "title": "Low-Intensity Physical Activity and Cardiovascular Health.",
+        "link": "",
+        "year": "2020",
+        "topic": "exercise_health",
+        "hierarchical_level": 1
+    },
+    {
+        "chunk_id": "Paper1Chunk5",
+        "chunk_text": "Long-term physical activity has been associated with a lower incidence of coronary heart disease (CHD) and a reduction in cardiovascular mortality. Regular exercise leads to the development of healthier arteries, a reduction in the plaque buildup in the blood vessels, and a lower risk of myocardial infarction. Engaging in consistent physical activity from a young age is particularly effective in preventing heart disease later in life.",
+        "title": "Long-Term Physical Activity and Cardiovascular Disease Prevention.",
+        "link": "",
+        "year": "2021",
+        "topic": "exercise_health",
+        "hierarchical_level": 1
+    },
+    {
+        "chunk_id": "Paper1Chunk6",
+        "chunk_text": "In addition to the direct benefits on cardiovascular health, regular physical activity has been shown to improve mental health, which can indirectly benefit heart health. Exercise has been linked to reduced levels of stress, anxiety, and depression, which are known risk factors for heart disease. Mind-body activities like yoga and tai chi are particularly beneficial in managing stress and improving heart rate variability.",
+        "title": "Mental Health and Its Impact on Cardiovascular Health Through Exercise.",
+        "link": "",
+        "year": "2021",
+        "topic": "exercise_health",
+        "hierarchical_level": 1
+    }, {
+        "chunk_id": "Paper1Chunk1",
+        "chunk_text": "Exercise interventions have been shown to improve cardiovascular fitness, lower blood pressure, and enhance endothelial function. Cardiovascular improvements are particularly evident in individuals with pre-existing conditions like hypertension, diabetes, or obesity. Aerobic exercises such as walking, running, and cycling are particularly effective in enhancing cardiovascular health by improving heart rate variability and arterial stiffness.",
+        "title": "Exercise Interventions for Cardiovascular Fitness.",
+        "link": "",
+        "year": "2021",
+        "topic": "exercise_health",
+        "hierarchical_level": 1
+    },
+    {
+        "chunk_id": "Paper1Chunk2",
+        "chunk_text": "High-intensity interval training (HIIT) has emerged as an effective alternative to traditional aerobic exercise for improving cardiovascular outcomes. Studies suggest that HIIT may provide similar or even superior benefits in terms of cardiovascular health, especially for those with limited time or who have difficulty engaging in prolonged exercise sessions. HIIT enhances cardiovascular endurance, reduces fat mass, and improves heart function.",
+        "title": "High-Intensity Interval Training and Cardiovascular Health.",
+        "link": "",
+        "year": "2019",
+        "topic": "exercise_health",
+        "hierarchical_level": 1
+    },
+    {
+        "chunk_id": "Paper1Chunk3",
+        "chunk_text": "Strength training, traditionally thought of as primarily beneficial for building muscle, also offers significant cardiovascular benefits. Recent research has shown that resistance training can improve cardiovascular health by lowering blood pressure, enhancing insulin sensitivity, and improving lipid profiles. Incorporating strength training into a balanced exercise routine is recommended for comprehensive cardiovascular health.",
+        "title": "Strength Training and Cardiovascular Benefits.",
+        "link": "",
+        "year": "2020",
+        "topic": "exercise_health",
+        "hierarchical_level": 1
+    },
+    {
+        "chunk_id": "Paper1Chunk4",
+        "chunk_text": "Even low-intensity physical activities, such as walking and gardening, can have a positive impact on cardiovascular health. Studies suggest that sedentary individuals who engage in even modest amounts of physical activity have a significantly reduced risk of heart disease and stroke. Walking, for instance, has been found to improve heart function, reduce inflammation, and improve circulation.",
+        "title": "Low-Intensity Physical Activity and Cardiovascular Health.",
+        "link": "",
+        "year": "2020",
+        "topic": "exercise_health",
+        "hierarchical_level": 1
+    },
+    {
+        "chunk_id": "Paper1Chunk5",
+        "chunk_text": "Long-term physical activity has been associated with a lower incidence of coronary heart disease (CHD) and a reduction in cardiovascular mortality. Regular exercise leads to the development of healthier arteries, a reduction in the plaque buildup in the blood vessels, and a lower risk of myocardial infarction. Engaging in consistent physical activity from a young age is particularly effective in preventing heart disease later in life.",
+        "title": "Long-Term Physical Activity and Cardiovascular Disease Prevention.",
+        "link": "",
+        "year": "2021",
+        "topic": "exercise_health",
+        "hierarchical_level": 1
+    },
+    {
+        "chunk_id": "Paper1Chunk6",
+        "chunk_text": "In addition to the direct benefits on cardiovascular health, regular physical activity has been shown to improve mental health, which can indirectly benefit heart health. Exercise has been linked to reduced levels of stress, anxiety, and depression, which are known risk factors for heart disease. Mind-body activities like yoga and tai chi are particularly beneficial in managing stress and improving heart rate variability.",
+        "title": "Mental Health and Its Impact on Cardiovascular Health Through Exercise.",
+        "link": "",
+        "year": "2021",
+        "topic": "exercise_health",
+        "hierarchical_level": 1
+    }, {
+        "chunk_id": "Paper1Chunk1",
+        "chunk_text": "Exercise interventions have been shown to improve cardiovascular fitness, lower blood pressure, and enhance endothelial function. Cardiovascular improvements are particularly evident in individuals with pre-existing conditions like hypertension, diabetes, or obesity. Aerobic exercises such as walking, running, and cycling are particularly effective in enhancing cardiovascular health by improving heart rate variability and arterial stiffness.",
+        "title": "Exercise Interventions for Cardiovascular Fitness.",
+        "link": "",
+        "year": "2021",
+        "topic": "exercise_health",
+        "hierarchical_level": 1
+    },
+    {
+        "chunk_id": "Paper1Chunk2",
+        "chunk_text": "High-intensity interval training (HIIT) has emerged as an effective alternative to traditional aerobic exercise for improving cardiovascular outcomes. Studies suggest that HIIT may provide similar or even superior benefits in terms of cardiovascular health, especially for those with limited time or who have difficulty engaging in prolonged exercise sessions. HIIT enhances cardiovascular endurance, reduces fat mass, and improves heart function.",
+        "title": "High-Intensity Interval Training and Cardiovascular Health.",
+        "link": "",
+        "year": "2019",
+        "topic": "exercise_health",
+        "hierarchical_level": 1
+    },
+    {
+        "chunk_id": "Paper1Chunk3",
+        "chunk_text": "Strength training, traditionally thought of as primarily beneficial for building muscle, also offers significant cardiovascular benefits. Recent research has shown that resistance training can improve cardiovascular health by lowering blood pressure, enhancing insulin sensitivity, and improving lipid profiles. Incorporating strength training into a balanced exercise routine is recommended for comprehensive cardiovascular health.",
+        "title": "Strength Training and Cardiovascular Benefits.",
+        "link": "",
+        "year": "2020",
+        "topic": "exercise_health",
+        "hierarchical_level": 1
+    },
+    {
+        "chunk_id": "Paper1Chunk4",
+        "chunk_text": "Even low-intensity physical activities, such as walking and gardening, can have a positive impact on cardiovascular health. Studies suggest that sedentary individuals who engage in even modest amounts of physical activity have a significantly reduced risk of heart disease and stroke. Walking, for instance, has been found to improve heart function, reduce inflammation, and improve circulation.",
+        "title": "Low-Intensity Physical Activity and Cardiovascular Health.",
+        "link": "",
+        "year": "2020",
+        "topic": "exercise_health",
+        "hierarchical_level": 1
+    },
+    {
+        "chunk_id": "Paper1Chunk5",
+        "chunk_text": "Long-term physical activity has been associated with a lower incidence of coronary heart disease (CHD) and a reduction in cardiovascular mortality. Regular exercise leads to the development of healthier arteries, a reduction in the plaque buildup in the blood vessels, and a lower risk of myocardial infarction. Engaging in consistent physical activity from a young age is particularly effective in preventing heart disease later in life.",
+        "title": "Long-Term Physical Activity and Cardiovascular Disease Prevention.",
+        "link": "",
+        "year": "2021",
+        "topic": "exercise_health",
+        "hierarchical_level": 1
+    },
+    {
+        "chunk_id": "Paper1Chunk6",
+        "chunk_text": "In addition to the direct benefits on cardiovascular health, regular physical activity has been shown to improve mental health, which can indirectly benefit heart health. Exercise has been linked to reduced levels of stress, anxiety, and depression, which are known risk factors for heart disease. Mind-body activities like yoga and tai chi are particularly beneficial in managing stress and improving heart rate variability.",
+        "title": "Mental Health and Its Impact on Cardiovascular Health Through Exercise.",
+        "link": "",
+        "year": "2021",
+        "topic": "exercise_health",
+        "hierarchical_level": 1
+    }
+]
