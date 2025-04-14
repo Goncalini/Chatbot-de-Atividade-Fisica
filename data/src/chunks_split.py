@@ -84,16 +84,12 @@ def process_pubmed(input_data):
 
 def process_google (data, path):
     output = []
-    paper_count = 1922
+    paper_count = 2770
 
     for item in data:
         id = item.get("id")
-        
-        if id is None:
-            print(f"ID não encontrado para o item: {item}")
-            continue
 
-        pdf_path = f"{path}/{id}.pdf"
+        pdf_path = f"{path}/{id}.txt"
 
         try:
             with open(pdf_path, "r", encoding="utf-8") as pdf_file:
@@ -105,14 +101,33 @@ def process_google (data, path):
         chunks = split_into_chunks(pdf_text)
 
         for idx, chunk in enumerate(chunks):
+            hl = 3
+            if item.get("citations") >= 1000:
+                hl = 1
+
+            hierarchical_links_1 = ["https://bjsm.bmj.com", "https://www.nature.com"]
+            
+
+            for l in hierarchical_links_1:
+                if l in item.get("pdf_link"):
+                    hl = 1
+                    break
+
+            hierarchical_links_2 = ["https://link.springer.com"]
+
+            for l in hierarchical_links_2:
+                if l in item.get("pdf_link"):
+                    hl = 2
+                    break
+
             output.append({
                 "chunk_id": f"Paper{paper_count}Chunk{idx}",
                 "chunk_text": chunk,
                 "title": item["title"],
-                "link": item["link"],
+                "link": item["pdf_link"],
                 "year": item["year"],
                 "topic": item["topic"],
-                "hierarchical_level": 1
+                "hierarchical_level": hl
             })
 
         paper_count += 1
