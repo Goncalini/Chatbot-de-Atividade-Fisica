@@ -1,5 +1,20 @@
 {
+    "physical_activity": [
+        "benefits of physical activity on health",
+        "impact of physical inactivity on health",
+        "importance of regular physical activity for well-being",
+        "how physical activity improves cardiovascular health",
+        "role of physical activity in mental health"
+    ],
+    "aerobic_exercise": [
+        "impact of aerobic exercise on heart health",
+        "benefits of running and cycling on physical fitness",
+        "how aerobic exercise helps with weight loss",
+        "relationship between aerobic exercise and endurance"
+    ],
     "strength_training": [
+        "impact of strength training on muscle health",
+        "benefits of weight lifting on bone density",
         "how strength training helps in injury prevention",
         "role of resistance training in healthy aging"
     ],
