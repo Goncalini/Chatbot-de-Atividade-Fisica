@@ -85,7 +85,7 @@ def download_pdf(session, pdf_url, file_name):
         return False
 
 def main():
-    json_file = "../json/google_scholar_papers.json"
+    json_file = "../json/google_scholar_papers1.json"
     dir_path = "../PDF"
     os.makedirs(dir_path, exist_ok=True)
 
@@ -117,8 +117,12 @@ def main():
             print(f"Não foi possível encontrar link PDF para: {title}")
             continue
 
-        safe_title = "".join(c for c in title if c.isalnum() or c in " _-")
-        file_name = f"{safe_title}.pdf"
+        article_id = article.get("id")
+        if not article_id:
+            print(f"Artigo sem ID: {title}")
+            continue
+
+        file_name = f"{article_id}.pdf"
         file_path = os.path.join(dir_path, file_name)
 
         download_pdf(session, pdf_url, file_path)
