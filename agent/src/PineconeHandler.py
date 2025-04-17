@@ -197,7 +197,7 @@ class PineconeHandler:
             print(f"Score: {match['score']:.4f}")
             print(f"Hierarchy: {match['metadata']['hierarchy']}")
             print(f"Text: {match['metadata']['text']}")
-            print("-" * 50)
+            print("\n")
 
         return responseBuilder
         

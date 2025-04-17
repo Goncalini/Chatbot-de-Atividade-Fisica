@@ -44,6 +44,7 @@ class LLMClient:
             response = self.client.chat.completions.create(
                 model=self.model,
                 messages=[{"role": "user", "content": prompt}],
+                temperature=0.3,
             )
 
             if self.reasoningModel:
