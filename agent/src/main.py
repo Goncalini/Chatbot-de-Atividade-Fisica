@@ -1,19 +1,26 @@
 from LLMClient import LLMClient
 from PineconeHandler import PineconeHandler
+from Users import MongoHandler
 
 class Agent:
     
     def __init__(self, reasoningModel=True, contextPrompt="../config/contextPrompt.txt", topK=5, targetThreshold=0.4900, minimumThreshold=0.3400, maxHierarchyLevel=3):
         
-        self.contextPrompt=self.loadInitialPrompt(contextPrompt)
+        self.contextPrompt = self.loadInitialPrompt(contextPrompt)
         self.pineconeHandler = PineconeHandler(topK, targetThreshold, minimumThreshold, maxHierarchyLevel)
         self.llmClient = LLMClient(reasoningModel)
+        self.mongo_handler = MongoHandler("mongodb://localhost:27017/", "md", "users")
         
     def loadInitialPrompt(self, path):
         with open(path, "r", encoding="utf-8") as f:
             return f.read()
         
     def submitQuestion(self, prompt):
+
+        username = "sophie_lee24"
+
+        user_data = self.mongo_handler.getUserData(username)
+        user_data_prompt = self.mongo_handler.generateUserDataPrompt(user_data)
         
         context = self.pineconeHandler.query(prompt)
         
@@ -24,6 +31,7 @@ class Agent:
         # Create the final prompt for the LLM
         finalPrompt = (
             f"{self.contextPrompt}\n\n"
+            f"{user_data_prompt}"
             "Question:\n"
             f"{prompt}\n\n"
             "Articles context:\n"
