@@ -85,7 +85,7 @@ class PineconeHandler:
     def insertDataInBatches(self):
         CHUNK_SIZE = 50
         # Load the pre-chunked JSON file (already split by text elsewhere)
-        with open("data/chunkedData.json", "r", encoding="utf-8") as f:
+        with open("../data/chunkedData.json", "r", encoding="utf-8") as f:
             data = json.load(f)
 
         # Helper: Chunk a list into smaller batches of 10

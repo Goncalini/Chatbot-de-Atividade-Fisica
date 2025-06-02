@@ -4,7 +4,7 @@ from Users import MongoHandler
 
 class Agent:
     
-    def __init__(self, reasoningModel=True, contextPrompt="../config/contextPrompt.txt", topK=5, targetThreshold=0.4900, minimumThreshold=0.3400, maxHierarchyLevel=3):
+    def __init__(self, reasoningModel=True, contextPrompt="../config/contextPrompt.txt", topK=5, targetThreshold=0.5900, minimumThreshold=0.3400, maxHierarchyLevel=3):
         
         self.contextPrompt = self.loadInitialPrompt(contextPrompt)
         self.pineconeHandler = PineconeHandler(topK, targetThreshold, minimumThreshold, maxHierarchyLevel)
