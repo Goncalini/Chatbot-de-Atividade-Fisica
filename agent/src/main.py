@@ -1,6 +1,6 @@
 from LLMClient import LLMClient
 from PineconeHandler import PineconeHandler
-from Users import MongoHandler
+#from Users import MongoHandler
 
 class Agent:
     
@@ -9,7 +9,7 @@ class Agent:
         self.contextPrompt = self.loadInitialPrompt(contextPrompt)
         self.pineconeHandler = PineconeHandler(topK, targetThreshold, minimumThreshold, maxHierarchyLevel)
         self.llmClient = LLMClient(reasoningModel)
-        self.mongo_handler = MongoHandler("mongodb://localhost:27017/", "md", "users")
+        #self.mongo_handler = MongoHandler("mongodb://localhost:27017/", "md", "users")
         
     def loadInitialPrompt(self, path):
         with open(path, "r", encoding="utf-8") as f:
@@ -19,8 +19,8 @@ class Agent:
 
         username = "sophie_lee24"
 
-        user_data = self.mongo_handler.getUserData(username)
-        user_data_prompt = self.mongo_handler.generateUserDataPrompt(user_data)
+        #user_data = self.mongo_handler.getUserData(username)
+        #user_data_prompt = self.mongo_handler.generateUserDataPrompt(user_data)
         
         context = self.pineconeHandler.query(prompt)
         
@@ -31,7 +31,7 @@ class Agent:
         # Create the final prompt for the LLM
         finalPrompt = (
             f"{self.contextPrompt}\n\n"
-            f"{user_data_prompt}"
+            #f"{user_data_prompt}"
             "Question:\n"
             f"{prompt}\n\n"
             "Articles context:\n"
@@ -59,7 +59,7 @@ class Agent:
             
 
 if __name__ == "__main__":
-    agent = Agent(reasoningModel=False)
+    agent = Agent(reasoningModel=True)
     while True:
         # Prompt the user for a question
         prompt = input("\n\nAsk anything (or 'EXIT' to leave): \n>>>")
@@ -69,4 +69,3 @@ if __name__ == "__main__":
         
         # Retrieve relevant chunks using the embeddings
         agent.submitQuestion(prompt)
-
